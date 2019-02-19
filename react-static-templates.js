@@ -20,9 +20,8 @@ const t_4 = universal(import('../src/components/units/games/Games'), universalOp
 const t_5 = universal(import('../src/components/units/iot/IoT'), universalOptions)
 const t_6 = universal(import('../src/components/units/school/School'), universalOptions)
 const t_7 = universal(import('../src/components/units/media/Media'), universalOptions)
-const t_8 = universal(import('../src/components/units/energy/Energy'), universalOptions)
-const t_9 = universal(import('../src/components/contact-us/ContactUs'), universalOptions)
-const t_10 = universal(import('../src/components/about-us/AboutUs'), universalOptions)
+const t_8 = universal(import('../src/components/contact-us/ContactUs'), universalOptions)
+const t_9 = universal(import('../src/components/about-us/AboutUs'), universalOptions)
 
 
 // Template Map
@@ -35,9 +34,8 @@ export default {
 '../src/components/units/iot/IoT': t_5,
 '../src/components/units/school/School': t_6,
 '../src/components/units/media/Media': t_7,
-'../src/components/units/energy/Energy': t_8,
-'../src/components/contact-us/ContactUs': t_9,
-'../src/components/about-us/AboutUs': t_10
+'../src/components/contact-us/ContactUs': t_8,
+'../src/components/about-us/AboutUs': t_9
 }
 
 export const notFoundTemplate = "../node_modules/react-static/lib/browser/components/Default404"

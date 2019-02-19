@@ -105,14 +105,6 @@
       "template": "../src/components/units/media/Media"
     },
     {
-      "path": "energy",
-      "component": "src/components/units/energy/Energy",
-      "originalPath": "energy",
-      "hasGetProps": false,
-      "fromConfig": true,
-      "template": "../src/components/units/energy/Energy"
-    },
-    {
       "path": "contactus",
       "component": "src/components/contact-us/ContactUs",
       "originalPath": "contactus",
@@ -138,7 +130,6 @@
     "../src/components/units/iot/IoT",
     "../src/components/units/school/School",
     "../src/components/units/media/Media",
-    "../src/components/units/energy/Energy",
     "../src/components/contact-us/ContactUs",
     "../src/components/about-us/AboutUs"
   ]
