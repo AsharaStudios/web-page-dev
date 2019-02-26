@@ -1,0 +1,169 @@
+{
+    "misc":{
+        "followus": "Síguenos en"
+    },
+    "unit" : {
+        "animProgs" : "Programas de Animación",
+        "clients" : "Nuestros Clientes",
+        "completed" : "Realizados",
+        "devEngines" : "Motores de Desarrollo",
+        "events" : "Eventos",
+        "illustration" : "Ilustración",
+        "ongoing" : "En Marcha",
+        "portfolio" : "Portafolio",
+        "projects" : "Proyectos",
+        "publishers" : "Publicadores",
+        "services" : "Servicios",
+        "socialNetworksCall" : "Siganos en ...",
+        "techs" : "Tecnologías<1/>que usamos"
+    },
+    "units" : {
+        "energy" : {
+            "description" : "Unidad dedicada a prestar servicios en torno a la energía especialmente en el uso de tecnologías verdes y soluciones IoT, buscando la mayor eficiencia en costos para nuestros clientes a través del uso de energías limpias y servicios de consultoria buscando la mayor eficiencia y ahorro.",
+            "service": {
+                "calculoCompensaciones": {
+                    "title": "CONSULTORÍA CÁLCULO DE COMPENSACIONES",
+                    "desc": "Seguimiento a las compensaciones que tiene derecho el usuario por resolución CREG 067/2010, comparando el cálculo de compensaciones de Ashara Energy con el comercializador prestador del servicio."
+                },
+                "eficienciaEnergetica": {
+                    "title": "ASESORÍA EFICIENCIA ENERGÉTICA",
+                    "desc": "Proponemos estrategias de consumo de energía de acuerdo con las oportunidades que presenta el mercado."
+                },
+                "cumplimientoCreg38_2014": {
+                    "title": "ASESORÍA PARA CUMPLIMIENTO DE CÓDIGO DE MEDIDA CREG 038 DE 2014",
+                    "desc": "Proceso por el cual se solicita una reclamación al comercializador prestador del servicio a través de dos decretos otorgados por el Ministerio de Hacienda y Crédito Público; el 2860 del 9 de diciembre de 2013 los clientes cuya actividad económica principal esté registrada en el RUT en los códigos 011 a 360, 581 y 411 a 439 pueden recibir el beneficio a la contribución en energía eléctrica."
+                },
+                "proyectosEolicosSolares": {
+                    "title": "ASESORÍA PROYECTOS EÓLICOS Y SOLARES",
+                    "desc": "Se toma como base la curva de consumo horaria comparada con el potencial solar en el lugar de la instalación para determinar el tamaño del sistema eólico o solar que permita al cliente reducir parte de su consumo de la red convencional para consumir energía limpia y gratuita en el periodo de generación de la planta."
+                },
+                "contratacionEnergia": {
+                    "title": "ASESORÍA CONTRATACIÓN SUMINISTRO ENERGÍA ELÉCTRICA",
+                    "desc": ""
+                },
+                "exencionContribucion": {
+                    "title": "EXENCIÓN DE CONTRIBUCIÓN",
+                    "desc": ""
+                }
+            }
+        },
+        "games" : {
+            "description" : "Unidad dedicada al diseño y desarrollo  de videojuegos multiplataformas.",
+            "service": {
+                "vg_devel": {
+                    "title": "DESARROLLO DE VIDEOJUEGOS",
+                    "desc": "Desarrollo de videojuegos contruidos de manera transdisciplinar buscando impactar de manera lúdica, educativa y artistica cubriendo plataformas tanto de escritorio como móviles."
+                },
+                "vg_design": {
+                    "title": "DISEÑO DE VIDEOJUEGOS",
+                    "desc": "Realizamos diseño de videojuegos a medida de acuerdo a los requerimientos y el enfoque que se quiera dar, el cual puede estar orientado desde el marketing hasta procesos de fidelización."
+                },
+                "concept_art": {
+                    "title": "ARTE CONCEPTUAL",
+                    "desc": "Hacemos maravillosos concept art enfocados a escenarios o interacciones de los diferentes componentes dentro de un juego."
+                },
+                "2Danimation": {
+                    "title": "ANIMACIÓN 2D",
+                    "desc": "Nuestro equipo de animación maneja herramientas especializadas para la animación 2D que permite lograr la mayor calidad, desde animación frame to frame hasta deformaciones para alcanzar gran realismo."
+                },
+                "uiux_design": {
+                    "title": "DISEÑO UI/UX",
+                    "desc": "Diseñamos la mejor experiencia de usuario acompañada de una estética fundamental para generar rejugabilidad y retención en cualquier tipo de videojuego."
+                },
+                "trainings": {
+                    "title": "CAPACITACIONES",
+                    "desc": "Capacitamos en todos los aspectos de desarrollo en videojuegos."
+                }
+            }
+        },
+        "iot" : {
+            "description" : "Unidad de Ashara Studios encargada de diseñar, desarrollar e implementar software y hardware para solucionar problemas empleando automatismos y dispositivos que se conectan a internet con el propósito de monitorear y controlar remotamente situaciones o bien realizar alguna acción remota en específico desde cualquier parte del mundo o dentro de una zona de cobertura.",
+            "service": {
+                "solsElectronicas": {
+                    "title": "SOLUCIONES ELECTRÓNICAS",
+                    "desc": "Asesoramiento, diseño e implementación de proyectos electrónicos, eficientes y robustos. Algunas de sus áreas: telemática, telecomunicaciones, telemetría, control, instrumentación industrial y electrónica de potencia, entre otras."
+                },
+                "solsIoT": {
+                    "title": "SOLUCIONES IOT",
+                    "desc": "Conectamos sus dispositivos a Internet, acercando el Internet de las Cosas(IoT, Internet of Things) a su solución. Tenemos experiencia en diversas tecnologías de comunicaciones. Le asesoramos en la tecnología adecuada a sus necesidades de IoT."
+                }
+            }
+        },
+        "media" : {
+            "description" : "Unidad dedicada a las comunicaciones y el mercadeo buscando la mejor manera de expresar ideas a través de campañas, comunidades y todas las redes sociales.",
+            "service": {
+                "campsMarketing": {
+                    "title": "CAMPAÑAS DE MARKETING",
+                    "desc": "Diseñamos campañas de marketing especializadas en la generación de gran impacto acorde a tu proyecto desde iniciativas sociales hasta entretenimiento en video juegos."
+                },
+                "edicionVideo": {
+                    "title": "EDICIÓN DE VÍDEO",
+                    "desc": "Construimos desde el guión, pasando por las etapas de pre-producción y terminando en la post-producción de vídeos de alta calidad fundamentales para mostrar tu idea de una manera profesional."
+                },
+                "fotografia": {
+                    "title": "FOTOGRAFÍA",
+                    "desc": "Fotos de la más alta calidad que permitan mostrar la mejor cara de tus productos y servicios al público general."
+                }
+            }
+        },
+        "school" : {
+            "description" : "Unidad dedicada a la enseñanza transdisciplinar por medio de educación efectiva a través de cursos y comunidades.",
+            "service": {
+                "cursos": {
+                    "title": "CURSOS",
+                    "desc": "Dictamos cursos en cualquiera de los ámbitos que manejamos de manera profesional, video juegos, desarrollo de software, ciencia, internet de las cosas, marketing y comuniaciones."
+                }
+            }
+        },
+        "science" : {
+            "description" : "Unidad  dedicada a la investigación, simulación y prototipado de entornos complejos, utilizando herramientas de análisis y obtención de datos como minería de datos, análisis de datos ráster, metaheurísticas; además de capacitación y divulgación Cientifica.",
+            "service": {
+                "investigacion": {
+                    "title": "INVESTIGACIÓN CIENTÍFICA",
+                    "desc": "Nuestra unidad científica busca construir productos de base tecnológica y organizativa para solucionar problemas reales que son objeto de múltiples disciplinas basados en las herramientas de las ciencias de la complejidad."
+                },
+                "simulaciones": {
+                    "title": "SIMULACIONES",
+                    "desc": "Realizamos simulaciones de entornos complejos donde interactúan desde componentes biológicos, sociales, psicológicos y cualquiera que sea necesario, para ayudar a la toma de decisiones en tiempo real."
+                },
+                "datasets": {
+                    "title": "DATA-SETS",
+                    "desc": "Construimos y ofrecemos set de datos a medida, utilizando herramientas de data-science para obtener cualquier tipo de información solicitada."
+                },
+                "divulgacion": {
+                    "title": "DIVULGACIÓN CIENTÍFICA",
+                    "desc": "Como unidad dedicada y especializada en las ciencias de la complejidad, nos encanta compartir nuestro conocimiento a cualquier tipo de persona como un portal de entrada muy importante en la construcción de grandes ideas."
+                }
+            }
+        },
+        "soft" : {
+            "description" : "Unidad dedicada al diseño, desarrollo, implementación y despliegue de plataformas tecnológicas como páginas web, plataformas web, aplicaciones de escritorio, aplicaciones móviles, aplicaciones Unity para proyectos 3D y gamificación.",
+            "service": {
+                "pagWeb": {
+                    "title": "PÁGINAS WEB",
+                    "desc": "Desarrollo de Páginas orientadas a los procesos de mercadeo actuales y construidas a medida junto a nuestros clientes buscando la administración más sencilla para sus contenidos además de su posicionamiento en buscadores online."
+                },
+                "platWeb": {
+                    "title": "PLATAFORMAS WEB",
+                    "desc": "Servicios especializados que buscan la accesibilidad, automatización, optimización, crecimiento y escalabilidad de su modelo de negocio, enfocado en aumentar su productividad y posicionamiento de su compañía en el ámbito global apoyado de todas las bondades que ofrecen los últimos avances de la tecnología."
+                },
+                "platMoviles": {
+                    "title": "PLATAFORMAS MÓVILES",
+                    "desc": "Volvemos tu idea de negocio un producto real, con nuestro asesoramiento en ingeniería introducimos tu producto como una aplicación en las tiendas móviles más importantes (play store, app store). Utilizando los principios de diseño pioneros en la estética y usabilidad de aplicaciones móviles."
+                },
+                "platMultimedia": {
+                    "title": "PLATAFORMAS MULTIMEDIA",
+                    "desc": "Creamos plataformas que interactúan de múltiples maneras con el entorno utilizando conexiones entre diferentes experiencias como ambientes 3d, 2d y hardware a través de internet de las cosas."
+                },
+                "gamificacion": {
+                    "title": "GAMIFICACIÓN",
+                    "desc": "Construimos plataformas enfocadas a las recompensas, generando procesos de fidelización y uso en cualquier dispositivo, a partir de la gamificación tu plataforma web o móvil puede escalar a un siguiente nivel en términos de diversión y usabilidad."
+                },
+                "ingRequerimientos": {
+                    "title": "INGENIERÍA DE REQUERIMIENTOS",
+                    "desc": "Utilizamos nuestros conocimientos para caracterizar y cuantificar lo que necesita su negocio acompañado de los modelos, las especificaciones funcionales y no funcionales. Además de los criterios de priorización que debe tener en cuenta para llevar su proyecto a cabo."
+                }
+            }
+        }
+    }
+}
