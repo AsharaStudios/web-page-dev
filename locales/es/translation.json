@@ -1,6 +1,47 @@
 {
-    "misc":{
-        "followus": "Síguenos en"
+    "about": {
+        "description": "Somos una compañía líder en la creación de ideas con desarrollo tecnológico que cambien de una manera positiva tanto el entorno en el que vivimos como los proyectos de nuestros clientes a través de planes de desarrollo tecnológico, que involucran software a medida, vídeo juegos/gamificación, investigación y simulaciones como nuestras principales herramientas para brindar calidad a nuestros productos y servicios.",
+        "phil": {
+            "title": "FILOSOFÍA",
+            "phrase": "\"El aleteo de una mariposa puede generar un tornado al otro lado del mundo\"",
+            "explain": "Como en la teoría del caos y el ejemplo de la mariposa, nosotros entendemos la sensibilidad a los pequeños cambios para generar corrientes de carácter global, en un ciclo constante de evolución y mejoramiento, aprendiendo día a día para crear cambios reales que mejoren el mundo donde todos nosotros vivimos."
+        },
+        "heroesTitle": "NUESTROS HEROES"
+    },
+    "contact": {
+        "emailPlaceholder": "tu@correo.com",
+        "subjectPlaceholder": "resume...",
+        "msgPlaceholder": "...lo que nos quieras decir"
+    },
+    "heroes": {
+        "andreaRamirez": "CMO Ashara Studios",
+        "andresRodriguez": "Ingeniero/CEO/Diseñador de Videojuegos",
+        "carlosBecerra": "Desarrollador de Videojuegos",
+        "diegoMena": "Director Comercial/Desarrollador IoT",
+        "diegoTabares": "Anatomista y Artista Plástico",
+        "estebanMartinez": "Diseñador Gráfico/Ilustrador/Modelador 3D",
+        "juanJauregui": "CSO Ashara Studios/Músico",
+        "leonardoCucaita": "Diseñador Gráfico/Animador/Modelador 3D",
+        "sandraCastro": "CCO Ashara Studios"
+    },
+    "home": {
+        "slogan": "Trascendiendo el presente<1/>para crear el futuro",
+        "description": "Somos una compañía dedicada a la creación de ideas disruptivas, con el objetivo de brindar soluciones tecnológicas a nuestros clientes y sus organizaciones, a través de servicios que mejoran sus modelos de negocio desde diferentes enfoques como software, ciencia, vídeo juegos, internet de las cosas, educación y marketing.",
+        "redesMsg": "Vemos cada proyecto como una nueva oportunidad de aprender, crecer y continuar avanzando paso a paso, para alcanzar nuestro objetivo de impactar el mundo de una manera positiva"
+    },
+    "misc": {
+        "aboutUs": "Nosotros",
+        "alphaDownload": "¡¡Descarga el Alfa!!",
+        "comingSoon": "¡¡Proximamente!!",
+        "contactUs": "Contáctenos",
+        "copy": "Copyright © Ashara Studios 2019",
+        "email": "Correo Electrónico",
+        "followus": "Síguenos en",
+        "message": "Mensaje",
+        "policies": "Políticas de Privacidad",
+        "send": "Enviar",
+        "subject": "Asunto",
+        "units": "Unidades"
     },
     "unit" : {
         "animProgs" : "Programas de Animación",
@@ -19,6 +60,7 @@
     },
     "units" : {
         "energy" : {
+            "call2action": "",
             "description" : "Unidad dedicada a prestar servicios en torno a la energía especialmente en el uso de tecnologías verdes y soluciones IoT, buscando la mayor eficiencia en costos para nuestros clientes a través del uso de energías limpias y servicios de consultoria buscando la mayor eficiencia y ahorro.",
             "service": {
                 "calculoCompensaciones": {
@@ -48,7 +90,25 @@
             }
         },
         "games" : {
+            "call2action": "Ven a vivir una gran aventura",
             "description" : "Unidad dedicada al diseño y desarrollo  de videojuegos multiplataformas.",
+            "events": {
+                "sofa2017": {
+                    "sub": "Pre-Alfa de Exorcist",
+                    "desc": "Expositores en la Tercer Versión del Made With Unity Colombia en SOFA 2017."
+                },
+                "unityDevD": {
+                    "desc": "Expositores en el Unity Developer Day Colombia."
+                }
+            },
+            "portfolio": {
+                "exorcist": "Exorcist es un juego para móvil, donde el jugador toma el rol de un exorcista, el cual lucha contra criaturas del inframundo para exorcizarlas y poder grabarlas en su libro de sombras. Por medio de una mecánica de dibujar glifos, patrones que se hacen al conectar varios puntos, es posible atacar a las criaturas que el exorcista encuentra",
+                "infection": "Bullet-hell donde deberemos enfrentarnos a todas las bacterias y virus dentro de nuestro cuerpo",
+                "sc": "Spin-off de Exorcist. El jugador debe luchar y dominar lujuriosas chicas para poder escapar del segundo círculo del infierno"
+            },
+            "publishers": {
+                "superhippo": "Líder en la industria freemium de los videojuegos. Superhippo ha trabajado para establecerse en el mercado como un publicador exitoso, con más de 40 títulos disponibles en diferentes canales de distribución."
+            },
             "service": {
                 "vg_devel": {
                     "title": "DESARROLLO DE VIDEOJUEGOS",
@@ -77,7 +137,33 @@
             }
         },
         "iot" : {
+            "call2action": "Conectamos tu mundo",
             "description" : "Unidad de Ashara Studios encargada de diseñar, desarrollar e implementar software y hardware para solucionar problemas empleando automatismos y dispositivos que se conectan a internet con el propósito de monitorear y controlar remotamente situaciones o bien realizar alguna acción remota en específico desde cualquier parte del mundo o dentro de una zona de cobertura.",
+            "events": {
+                "ane2018": {
+                    "title": "VIII CONGRESO INTERNACIONAL DEL ESPECTRO",
+                    "sub": "Asistentes y Revisores",
+                    "desc": "Aportando contínuamente al proyecto de simplificación normativa de la regulación del espectro en banda libre"
+                },
+                "angelhack": {
+                    "title": "AngelHack Bogotá 2018",
+                    "sub": "Premiados por Hurify e IBM",
+                    "desc": "IoT para la interación de personas"
+                },
+                "hackRRR": {
+                    "title": "HACKATHON: Reinventa, Realiza y Respira",
+                    "sub": "Primer Lugar",
+                    "desc": "IoT para el monitoreo de calidad del aire"
+                },
+                "ibm": {
+                    "title": "Seleccion de StartUps de IBM",
+                    "sub": "Ganadores de servicios en la nube",
+                    "desc": "Poder Computacional en la Nube para el IoT"
+                }
+            },
+            "portfolio": {
+                "nympha": "Tecnología agrícola de iluminación LED."
+            },
             "service": {
                 "solsElectronicas": {
                     "title": "SOLUCIONES ELECTRÓNICAS",
@@ -90,7 +176,16 @@
             }
         },
         "media" : {
-            "description" : "Unidad dedicada a las comunicaciones y el mercadeo buscando la mejor manera de expresar ideas a través de campañas, comunidades y todas las redes sociales.",
+            "call2action": "Muestra tu mejor cara",
+            "description" : "Unidad dedicada a las comunicaciones y el mercadeo buscando la mejor manera de expresar ideas a través de campañas, comunidades y todas las redes sociales.","events": {
+                "meetUp": {
+                    "sub": "Primer Meet-up",
+                    "desc": "Desarrollo de videojuegos: ¿por dónde comienzo?"
+                }
+            },
+            "portfolio": {
+                "zonavj": "Comunidad de desarrolladores de videojuegos"
+            },
             "service": {
                 "campsMarketing": {
                     "title": "CAMPAÑAS DE MARKETING",
@@ -107,16 +202,44 @@
             }
         },
         "school" : {
+            "call2action": "Alimenta tu mente",
             "description" : "Unidad dedicada a la enseñanza transdisciplinar por medio de educación efectiva a través de cursos y comunidades.",
+            "events": {
+                "gameAudioTalks": {
+                    "title": "Hablemos de Game Audio",
+                    "sub": "Streaming semanal",
+                    "desc": "Espacio para hablar sobre el game audio"
+                }
+            },
+            "portfolio": {
+                "cursoProdMus": {
+                    "title": "Producción Musical",
+                    "desc": "Curso de introducción a la producción músical orientado a videojuegos"
+                }
+            },
             "service": {
                 "cursos": {
                     "title": "CURSOS",
-                    "desc": "Dictamos cursos en cualquiera de los ámbitos que manejamos de manera profesional, video juegos, desarrollo de software, ciencia, internet de las cosas, marketing y comuniaciones."
+                    "desc": "Dictamos cursos en cualquiera de los ámbitos que manejamos de manera profesional, video juegos, desarrollo de software, ciencia, internet de las cosas, marketing y comunicaciones."
                 }
             }
         },
         "science" : {
+            "call2action": "Descubre la complejidad del universo",
             "description" : "Unidad  dedicada a la investigación, simulación y prototipado de entornos complejos, utilizando herramientas de análisis y obtención de datos como minería de datos, análisis de datos ráster, metaheurísticas; además de capacitación y divulgación Cientifica.",
+            "events": {
+                "meetup": {
+                    "sub": "Primer Meetup",
+                    "desc": "Fractales, Caos, Complejidad por todos lados"
+                },
+                "hackamericas": {
+                    "sub": "TOP 5",
+                    "desc": "Hackathon de Movilidad y Calidad del Aire"
+                }
+            },
+            "portfolio": {
+                "satyrium": "Proyecto para monitorizar, simular y mejorar la calidad de aire"
+            },
             "service": {
                 "investigacion": {
                     "title": "INVESTIGACIÓN CIENTÍFICA",
@@ -137,7 +260,35 @@
             }
         },
         "soft" : {
+            "call2action": "Construimos tus ideas",
             "description" : "Unidad dedicada al diseño, desarrollo, implementación y despliegue de plataformas tecnológicas como páginas web, plataformas web, aplicaciones de escritorio, aplicaciones móviles, aplicaciones Unity para proyectos 3D y gamificación.",
+            "events": {
+                "i6k_bogota": {
+                    "sub": "Circuito Bogotá",
+                    "desc": "Mejores innovadores de Bogotá"
+                },
+                "i6k_colombia": {
+                    "sub": "Circuito Colombia",
+                    "desc": "Top 8 innovadores de Colombia."
+                },
+                "nequi": {
+                    "sub": "Game+Code",
+                    "desc": "Seleccionados para proponer gamificación dentro de la plataforma Nequi"
+                }
+            },
+            "portfolio": {
+                "completed": {
+                    "arc": "Sitio Web y Plataforma Administrativa de ARC Abogados",
+                    "ashara": "Sitio Web de Ashara Studios",
+                    "complexud": "Sitio Web de ComplexUD",
+                    "globalplate": "Sitio Web de Global Palate",
+                    "hsabogal":"Sitio Web de Horti Sabogal"
+                },
+                "ongoing": {
+                    "actis": "Suit de servicios de Software para entidades públicas y privadas",
+                    "chainomy": "Red Social para soportar economías colaborativas"
+                }
+            },
             "service": {
                 "pagWeb": {
                     "title": "PÁGINAS WEB",
