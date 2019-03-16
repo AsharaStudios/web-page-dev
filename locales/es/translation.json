@@ -1,6 +1,6 @@
 {
     "about": {
-        "description": "Somos una compañía líder en la creación de ideas con desarrollo tecnológico que cambien de una manera positiva tanto el entorno en el que vivimos como los proyectos de nuestros clientes a través de planes de desarrollo tecnológico, que involucran software a medida, vídeo juegos/gamificación, investigación y simulaciones como nuestras principales herramientas para brindar calidad a nuestros productos y servicios.",
+        "description": "Somos una compañía líder en la creación de ideas con desarrollo tecnológico que transforman de una manera positiva tanto el entorno en el que vivimos como los proyectos de nuestros clientes a través de planes de desarrollo tecnológico que involucran software a medida, vídeo juegos/gamificación, investigación y simulaciones como nuestras principales herramientas para brindar calidad a nuestros productos y servicios.",
         "phil": {
             "title": "FILOSOFÍA",
             "phrase": "\"El aleteo de una mariposa puede generar un tornado al otro lado del mundo\"",
@@ -14,7 +14,7 @@
         "msgPlaceholder": "...lo que nos quieras decir"
     },
     "heroes": {
-        "andreaRamirez": "CMO Ashara Studios",
+        "andreaRamirez": "CMO Ashara Studios/Desarrolladora Front End",
         "andresRodriguez": "CEO Ashara Studios",
         "carlosBecerra": "Desarrollador de Videojuegos",
         "diegoMena": "Director Comercial/Desarrollador IoT",
@@ -22,7 +22,7 @@
         "estebanMartinez": "Diseñador Gráfico/Ilustrador/Modelador 3D",
         "juanJauregui": "CSO Ashara Studios/Músico",
         "leonardoCucaita": "Diseñador Gráfico/Animador/Modelador 3D",
-        "sandraCastro": "CCO Ashara Studios",
+        "sandraCastro": "CCO Ashara Studios/Productora Audiovisual/Productora de contenidos/Guionista",
         "andresCabrera": "CFO Ashara Studios",
         "camiloTorres": "CGO Ashara Games",
         "danielFlorez": "Investigador",
@@ -43,12 +43,12 @@
     "home": {
         "slogan": "Trascendiendo el presente<1/>para crear el futuro",
         "description": "Somos una compañía dedicada a la creación de ideas disruptivas, con el objetivo de brindar soluciones tecnológicas a nuestros clientes y sus organizaciones, a través de servicios que mejoran sus modelos de negocio desde diferentes enfoques como software, ciencia, vídeo juegos, internet de las cosas, educación y marketing.",
-        "redesMsg": "Vemos cada proyecto como una nueva oportunidad de aprender, crecer y continuar avanzando paso a paso, para alcanzar nuestro objetivo de impactar el mundo de una manera positiva"
+        "redesMsg": "Vemos cada proyecto como una nueva oportunidad de aprender, crecer y continuar avanzando paso a paso, para alcanzar nuestro objetivo de impactar el mundo de una manera positiva."
     },
     "misc": {
         "aboutUs": "Nosotros",
         "alphaDownload": "¡¡Descarga el Alfa!!",
-        "comingSoon": "¡¡Proximamente!!",
+        "comingSoon": "¡¡Próximamente!!",
         "contactUs": "Contáctenos",
         "copy": "Copyright © Ashara Studios 2019",
         "email": "Correo Electrónico",
@@ -71,13 +71,13 @@
         "projects" : "Proyectos",
         "publishers" : "Publicadores",
         "services" : "Servicios",
-        "socialNetworksCall" : "Siganos en ...",
+        "socialNetworksCall" : "Síganos en ...",
         "techs" : "Tecnologías<1/>que usamos"
     },
     "units" : {
         "energy" : {
             "call2action": "",
-            "description" : "Unidad dedicada a prestar servicios en torno a la energía especialmente en el uso de tecnologías verdes y soluciones IoT, buscando la mayor eficiencia en costos para nuestros clientes a través del uso de energías limpias y servicios de consultoria buscando la mayor eficiencia y ahorro.",
+            "description" : "Unidad dedicada a prestar servicios entorno a la energía siendo proveedores y comercializadores de energías verdes, buscando la mayor eficiencia en costos para nuestros clientes a través del uso de energías limpias y servicios de consultoría para transformar la forma en que la consumimos y hacerla amigable con el medio ambiente. ",
             "service": {
                 "calculoCompensaciones": {
                     "title": "CONSULTORÍA CÁLCULO DE COMPENSACIONES",
@@ -128,7 +128,7 @@
             "service": {
                 "vg_devel": {
                     "title": "DESARROLLO DE VIDEOJUEGOS",
-                    "desc": "Desarrollo de videojuegos contruidos de manera transdisciplinar buscando impactar de manera lúdica, educativa y artistica cubriendo plataformas tanto de escritorio como móviles."
+                    "desc": "Desarrollo de videojuegos construidos de manera transdisciplinar buscando impactar de manera lúdica, educativa y artística cubriendo plataformas tanto de escritorio como móviles."
                 },
                 "vg_design": {
                     "title": "DISEÑO DE VIDEOJUEGOS",
@@ -144,7 +144,7 @@
                 },
                 "uiux_design": {
                     "title": "DISEÑO UI/UX",
-                    "desc": "Diseñamos la mejor experiencia de usuario acompañada de una estética fundamental para generar rejugabilidad y retención en cualquier tipo de videojuego."
+                    "desc": "Diseñamos la mejor experiencia de usuario acompañada de una estética fundamental para generar re-jugabilidad y retención en cualquier tipo de videojuego."
                 },
                 "trainings": {
                     "title": "CAPACITACIONES",
@@ -159,12 +159,12 @@
                 "ane2018": {
                     "title": "VIII CONGRESO INTERNACIONAL DEL ESPECTRO",
                     "sub": "Asistentes y Revisores",
-                    "desc": "Aportando contínuamente al proyecto de simplificación normativa de la regulación del espectro en banda libre"
+                    "desc": "Aportando continuamente al proyecto de simplificación normativa de la regulación del espectro en banda libre"
                 },
                 "angelhack": {
                     "title": "AngelHack Bogotá 2018",
                     "sub": "Premiados por Hurify e IBM",
-                    "desc": "IoT para la interación de personas"
+                    "desc": "IoT para la interacción de personas"
                 },
                 "hackRRR": {
                     "title": "HACKATHON: Reinventa, Realiza y Respira",
@@ -172,7 +172,7 @@
                     "desc": "IoT para el monitoreo de calidad del aire"
                 },
                 "ibm": {
-                    "title": "Seleccion de StartUps de IBM",
+                    "title": "Selección de StartUps de IBM",
                     "sub": "Ganadores de servicios en la nube",
                     "desc": "Poder Computacional en la Nube para el IoT"
                 }
@@ -187,13 +187,13 @@
                 },
                 "solsIoT": {
                     "title": "SOLUCIONES IOT",
-                    "desc": "Conectamos sus dispositivos a Internet, acercando el Internet de las Cosas(IoT, Internet of Things) a su solución. Tenemos experiencia en diversas tecnologías de comunicaciones. Le asesoramos en la tecnología adecuada a sus necesidades de IoT."
+                    "desc": "Conectamos sus dispositivos a Internet, acercando el Internet de las Cosas (IoT, Internet of Things) a su solución. Tenemos experiencia en diversas tecnologías de comunicaciones. Le asesoramos en la tecnología adecuada a sus necesidades de IoT."
                 }
             }
         },
         "media" : {
             "call2action": "Muestra tu mejor cara",
-            "description" : "Unidad dedicada a las comunicaciones y el mercadeo buscando la mejor manera de expresar ideas a través de campañas, comunidades y todas las redes sociales.","events": {
+            "description" : "Unidad dedicada al diseño, e implementación de estrategias de comunicación, mass media y merchandising; desarrollamos proyectos que se ajustan a las necesidades de nuestros clientes.","events": {
                 "meetUp": {
                     "sub": "Primer Meet-up",
                     "desc": "Desarrollo de videojuegos: ¿por dónde comienzo?"
@@ -205,44 +205,44 @@
             "service": {
                 "campsMarketing": {
                     "title": "CAMPAÑAS DE MARKETING",
-                    "desc": "Diseñamos campañas de marketing especializadas en la generación de gran impacto acorde a tu proyecto desde iniciativas sociales hasta entretenimiento en video juegos."
+                    "desc": "Diseñamos campañas de marketing especializadas en la generación de gran impacto acorde a tu proyecto desde iniciativas sociales hasta entretenimiento en video juegos de principio a fin."
                 },
                 "edicionVideo": {
-                    "title": "EDICIÓN DE VÍDEO",
-                    "desc": "Construimos desde el guión, pasando por las etapas de pre-producción y terminando en la post-producción de vídeos de alta calidad fundamentales para mostrar tu idea de una manera profesional."
+                    "title": "PRODUCCIÓN AUDIOVISUAL",
+                    "desc": "Construimos desde el guion, pasando por las etapas de pre-producción y terminando en la post-producción de vídeos de alta calidad, fundamentales para mostrar tu idea con la mejor calidad."
                 },
                 "fotografia": {
                     "title": "FOTOGRAFÍA",
-                    "desc": "Fotos de la más alta calidad que permitan mostrar la mejor cara de tus productos y servicios al público general."
+                    "desc": "Fotografía profesional que se ajusta a las necesidades de tus productos y servicios, de esta forma mostrar lo con la mejor calidad. "
                 }
             }
         },
         "school" : {
             "call2action": "Alimenta tu mente",
-            "description" : "Unidad dedicada a la enseñanza transdisciplinar por medio de educación efectiva a través de cursos y comunidades.",
+            "description" : "Unidad dedicada a la enseñanza transdisciplinar por medio de educación efectiva a través de cursos y fortalecimiento de comunidades.",
             "events": {
                 "gameAudioTalks": {
                     "title": "Hablemos de Game Audio",
                     "sub": "Streaming semanal",
-                    "desc": "Espacio para hablar sobre el game audio"
+                    "desc": "Espacio para hablar sobre el Game audio"
                 }
             },
             "portfolio": {
                 "cursoProdMus": {
                     "title": "Producción Musical",
-                    "desc": "Curso de introducción a la producción músical orientado a videojuegos"
+                    "desc": "Curso de introducción a la producción musical orientado a videojuegos"
                 }
             },
             "service": {
                 "cursos": {
                     "title": "CURSOS",
-                    "desc": "Dictamos cursos en cualquiera de los ámbitos que manejamos de manera profesional, video juegos, desarrollo de software, ciencia, internet de las cosas, marketing y comunicaciones."
+                    "desc": "Dictamos cursos en cualquiera de los ámbitos que manejamos de manera profesional; video juegos, desarrollo de software, ciencia, internet de las cosas, marketing y comunicaciones, entre otros."
                 }
             }
         },
         "science" : {
             "call2action": "Descubre la complejidad del universo",
-            "description" : "Unidad  dedicada a la investigación, simulación y prototipado de entornos complejos, utilizando herramientas de análisis y obtención de datos como minería de datos, análisis de datos ráster, metaheurísticas; además de capacitación y divulgación Cientifica.",
+            "description" : "Unidad dedicada a la investigación, simulación y prototipado de entornos complejos, utilizando herramientas de análisis y obtención de información como minería de datos, análisis de datos ráster, metaheurísticas; además de capacitación y divulgación científica. ",
             "events": {
                 "meetup": {
                     "sub": "Primer Meetup",
@@ -277,7 +277,7 @@
         },
         "soft" : {
             "call2action": "Construimos tus ideas",
-            "description" : "Unidad dedicada al diseño, desarrollo, implementación y despliegue de plataformas tecnológicas como páginas web, plataformas web, aplicaciones de escritorio, aplicaciones móviles, aplicaciones Unity para proyectos 3D y gamificación.",
+            "description" : "Unidad dedicada al diseño, desarrollo, implementación y despliegue de plataformas tecnológicas como páginas web, plataformas web, aplicaciones de escritorio, aplicaciones móviles, aplicaciones en Unity para proyectos 3D y gamificación.",
             "events": {
                 "i6k_bogota": {
                     "sub": "Circuito Bogotá",
@@ -308,19 +308,19 @@
             "service": {
                 "pagWeb": {
                     "title": "PÁGINAS WEB",
-                    "desc": "Desarrollo de Páginas orientadas a los procesos de mercadeo actuales y construidas a medida junto a nuestros clientes buscando la administración más sencilla para sus contenidos además de su posicionamiento en buscadores online."
+                    "desc": "Desarrollo de páginas orientadas a procesos de mercadeo, construidas a medida de mano con nuestros clientes buscando la administración más amigable y sencilla para sus contenidos. Cada detalle tiene su justo cuidado, por ello nuestros productos tienen posicionamiento en buscadores online y cercano a los visitantes."
                 },
                 "platWeb": {
                     "title": "PLATAFORMAS WEB",
-                    "desc": "Servicios especializados que buscan la accesibilidad, automatización, optimización, crecimiento y escalabilidad de su modelo de negocio, enfocado en aumentar su productividad y posicionamiento de su compañía en el ámbito global apoyado de todas las bondades que ofrecen los últimos avances de la tecnología."
+                    "desc": "Servicios especializados que buscan la accesibilidad, automatización, optimización, crecimiento y escalabilidad de su modelo de negocio, enfocado en aumentar su productividad y posicionamiento de su compañía en el ámbito global, apoyado de todas las bondades que ofrecen los últimos avances de la tecnología."
                 },
                 "platMoviles": {
                     "title": "PLATAFORMAS MÓVILES",
-                    "desc": "Volvemos tu idea de negocio un producto real, con nuestro asesoramiento en ingeniería introducimos tu producto como una aplicación en las tiendas móviles más importantes (play store, app store). Utilizando los principios de diseño pioneros en la estética y usabilidad de aplicaciones móviles."
+                    "desc": "Volvemos tu idea de negocio un producto real, con nuestro asesoramiento en ingeniería introducimos tu producto en las tiendas de aplicaciones móviles más importantes: Play Store y App Store. Utilizando los principios de diseño, pioneros en la estética y usabilidad de aplicaciones móviles recibirás un producto que se ajusta a tus necesidades."
                 },
                 "platMultimedia": {
                     "title": "PLATAFORMAS MULTIMEDIA",
-                    "desc": "Creamos plataformas que interactúan de múltiples maneras con el entorno utilizando conexiones entre diferentes experiencias como ambientes 3d, 2d y hardware a través de internet de las cosas."
+                    "desc": "Creamos plataformas que interactúan de múltiples maneras con el entorno utilizando conexiones entre diferentes experiencias como ambientes 3D, 2D y hardware a través de internet de las cosas."
                 },
                 "gamificacion": {
                     "title": "GAMIFICACIÓN",
