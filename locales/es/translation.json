@@ -18,7 +18,7 @@
         "andresRodriguez": "CEO Ashara Studios",
         "carlosBecerra": "Desarrollador de Videojuegos",
         "diegoMena": "Director Comercial/Desarrollador IoT",
-        "diegoTabares": "Anatomista y Artista Plástico",
+        "diegoTabares": "Anatomista/Artista Plástico",
         "estebanMartinez": "Diseñador Gráfico/Ilustrador/Modelador 3D",
         "juanJauregui": "CSO Ashara Studios/Músico",
         "leonardoCucaita": "Diseñador Gráfico/Animador/Modelador 3D",
@@ -33,7 +33,12 @@
         "miguelRamirez": "CTO Ashara Studios",
         "nataliaBarbosa": "Desarrolladora IoT",
         "sebastianOrozco": "Desarrollador Front End",
-        "sebastianTabares": "CTO Ashara IoT"
+        "sebastianTabares": "CTO Ashara IoT",
+        "alexBustos": "CIoT Ashara IoT",
+        "rodrigoAlvarez": "Animador/Ilustrador",
+        "carlosAcosta": "CRO Ashara Science",
+        "maribelLopez": "Diseñadora Gráfica/Ilustradora",
+        "miguelBuitrago": "CTO Ashara Science"
     },
     "home": {
         "slogan": "Trascendiendo el presente<1/>para crear el futuro",
