@@ -2,11 +2,11 @@
     "about": {
         "description": "We are a leading company in the creation of ideas with the technological development that is transformed in a positive way the environment in which we live as the projects of our clients through the planes of the technological development that involves custom software, video games / gamification, research and simulations as our main tools to provide quality to our products and services.",
         "phil": {
-            "title": "PHILOSOPHY",
+            "title": " PHILOSOPHY",
             "phrase": "\"The butterfly flutter can generate a tornado on the other side of the world\"",
             "explain": "As in the theory of chaos and the example of the butterfly, we understand the importance of small changes that generate currents of global character, in a constant cycle of evolution and improvement, learning every day to create real changes that improve the world where we all live."
         },
-        "heroesTitle": "OUR HEROES"
+        "heroesTitle": "OUR HEROES "
     },
     "contact": {
         "emailPlaceholder": "Your@email.com",
@@ -14,19 +14,36 @@
         "msgPlaceholder": "...what you want to tell us"
     },
     "heroes": {
-        "andreaRamirez": "CMO Ashara Studios/Front-end Developer",
+        "andreaRamirez": "CMO Ashara Studios / Front-end Developer",
         "andresRodriguez": "CEO Ashara Studios",
         "carlosBecerra": "Video Game Developer",
         "diegoMena": " Commercial Director / IoT Developer",
         "diegoTabares": " Anatomist / Plastic Artist ",
-        "estebanMartinez": "Graphic designer / Illustrator / 3D Modeler",
+        "estebanMartinez": "Graphic Designer / Illustrator / 3D Modeler ",
         "juanJauregui": " CSO Ashara Studios / Musician ",
         "leonardoCucaita": "Graphic Designer / Animator / 3D Modeler",
-        "sandraCastro": " CCO Ashara Studios / Audiovisual Producer / Content Producer / Screenwriter"
+        "sandraCastro": " CCO Ashara Studios / Audiovisual Producer / Content Producer / Screenwriter",
+        "andresCabrera": "CFO Ashara Studios",
+        "camiloTorres": "CGO Ashara Games",
+        "danielFlorez": "Research",
+        "diegoGuerra": "Full Stack Developer",
+        "erickGarzon": "IoT Developer",
+        "felipeMontoya": "CLO Ashara Studios",
+        "fredyRodriguez": "Video Game / Front End Developer",
+        "miguelRamirez": "CTO Ashara Studios",
+        "nataliaBarbosa": "IoT Developer",
+        "sebastianOrozco": "Front End Developer",
+        "sebastianTabares": "CTO Ashara IoT",
+        "alexBustos": "CIoT Ashara IoT",
+        "rodrigoAlvarez": "Animator / Illustrator",
+        "carlosAcosta": "CRO Ashara Science",
+        "maribelLopez": "Graphic Designer / Illustrator",
+        "miguelBuitrago": "CTO Ashara Science",
+        "juanPabloMoreno": "Full Stack / Video Game Developer"
     },
     "home": {
-        "slogan": "Transcending the present <1 /> to create the future",
-        "description": "We are a company dedicated to the creation of disruptive ideas, with the aim of providing technological solutions to our clients and their organizations, through services that improve their business models from different approaches such as software, science, video games, internet of things , education and marketing.",
+        "slogan": " Transcending the present <1 /> to create the future",
+        "description": " We are a company dedicated to the creation of disruptive ideas, with the aim of providing technological solutions to our clients and their organizations, through services that improve their business models from different approaches such as software, science, video games, internet of things , education and marketing.",
         "redesMsg": "Each project is a new opportunity to learn, grow and continue to advance step by step, to reach our goal of impacting the world in a positive way."
     },
     "misc": {
@@ -38,14 +55,14 @@
         "email": "E-Mail",
         "followus": "Follow Us",
         "message": "Message",
-        "policies": "Privacy policies",
+        "policies": "Privacy policies ",
         "send": "Send",
         "subject": "Subject",
         "units": "Units"
     },
     "unit" : {
-        "animProgs" : "Animation Programs",
-        "clients" : "Our clients",
+        "animProgs" : " Animation Programs",
+        "clients" : " Our clients",
         "completed" : "Completed",
         "devEngines" : "Developer Engines",
         "events" : "Events",
@@ -56,23 +73,23 @@
         "publishers" : "Publishers",
         "services" : "Services",
         "socialNetworksCall" : "Follow us ...",
-        "techs" : "Technologies <1 /> that we use"
+        "techs" : " Technologies <1 /> that we use"
     },
     "units" : {
         "energy" : {
             "call2action": "",
-            "description" : "Unit dedicated to provide energy services as suppliers and marketers of green energy, seeking the highest cost efficiency through the use of clean energy for our customers and consulting services to transform the way we consume it and make it friendly with the environment.",
+            "description" : " Unit dedicated to provide energy services as suppliers and marketers of green energy, seeking the highest cost efficiency through the use of clean energy for our customers and consulting services to transform the way we consume it and make it friendly with the environment. ",
             "service": {
                 "calculoCompensaciones": {
-                    "title": "CONSULTING ON COMPENSATION CALCULATION",
-                    "desc": "Follow-up to the compensations that the user is entitled to through the resolution CREG 067/2010, comparing the calculation of compensations of Ashara Energy with the marketing provider of the service."
+                    "title": "CONSULTING ON COMPENSATION CALCULATION ",
+                    "desc": " Follow-up to the compensations that the user is entitled to through the resolution CREG 067/2010, comparing the calculation of compensations of Ashara Energy with the marketing provider of the service."
                 },
                 "eficienciaEnergetica": {
-                    "title": "ENERGY EFFICIENCY ADVISORY",
-                    "desc": "We propose energy consumption strategies according to the opportunities presented by the market."
+                    "title": " ENERGY EFFICIENCY ADVISORY ",
+                    "desc": " We propose energy consumption strategies according to the opportunities presented by the market."
                 },
                 "cumplimientoCreg38_2014": {
-                    "title": "COMPLIANCE WITH THE CODE OF MEASURE CREG 038 OF 2014 CONSULTANCY",
+                    "title": " COMPLIANCE WITH THE CODE OF MEASURE CREG 038 OF 2014 CONSULTANCY",
                     "desc": "Process by which a claim is requested to the marketing provider of the service through two decrees issued by the Ministry of Finance and Public Credit; 2860 of December 9, 2013 customers whose main economic activity is registered in the RUT in codes 011 to 360, 581 and 411 to 439 can receive the benefit to the contribution in electrical energy."
                 },
                 "proyectosEolicosSolares": {
@@ -80,30 +97,30 @@
                     "desc": "The hourly consumption curve compared with the solar potential in the place of installation is taken as a basis to determine the size of the wind or solar system that allows the client to reduce part of their consumption of the conventional network to consume clean and free energy in the period of generation of the plant."
                 },
                 "contratacionEnergia": {
-                    "title": "CONTRACT FOR THE SUPPLY OF ELECTRICAL ENERGY ADVISORY",
+                    "title": " CONTRACT FOR THE SUPPLY OF ELECTRICAL ENERGY ADVISORY",
                     "desc": ""
                 },
                 "exencionContribucion": {
-                    "title": "EXEMPTION FROM CONTRIBUTION",
+                    "title": " EXEMPTION FROM CONTRIBUTION",
                     "desc": ""
                 }
             }
         },
         "games" : {
-            "call2action": "Come and live a great adventure",
-            "description" : "Unit dedicated to the design and development of multiplatform videogames.",
+            "call2action": " Come and live a great adventure",
+            "description" : " Unit dedicated to the design and development of multiplatform videogames.",
             "events": {
                 "sofa2017": {
-                    "sub": "Pre-Alpha of Exorcist",
-                    "desc": "Exhibitors in the Third Version of Made With Unity Colombia in SOFA 2017."
+                    "sub": " Pre-Alpha of Exorcist ",
+                    "desc": " Exhibitors in the Third Version of Made With Unity Colombia in SOFA 2017."
                 },
                 "unityDevD": {
-                    "desc": "Exhibitors at Unity Developer Day Colombia - 2017."
+                    "desc": " Exhibitors at Unity Developer Day Colombia - 2017."
                 }
             },
             "portfolio": {
                 "exorcist": "Exorcist is a mobile game where the player takes the role of an exorcist and fights against creatures of the underworld to exorcise them and record them in their shadow book. By drawing glyphs, patterns that are made by connecting several points, it is possible to attack the creatures that the exorcist finds",
-                "infection": "Bullet-hell where we must face all the bacteria and viruses inside our body",
+                "infection": " Bullet-hell where we must face all the bacteria and viruses inside our body ",
                 "sc": "Spin-off de Exorcist. El jugador debe luchar y dominar lujuriosas chicas para poder escapar del segundo círculo del infierno"
             },
             "publishers": {
@@ -120,11 +137,11 @@
                 },
                 "concept_art": {
                     "title": "CONCEPTUAL ART",
-                    "desc": "We make wonderful concept art, focused on scenarios or interactions of the different components within a game."
+                    "desc": " We make wonderful concept art, focused on scenarios or interactions of the different components within a game."
                 },
                 "2Danimation": {
-                    "title": "2D ANIMATION",
-                    "desc": "Our animation team handles specialized tools for 2D animation that allows to achieve the highest quality from frame to frame animation to deformations to achieve great realism."
+                    "title": " 2D ANIMATION ",
+                    "desc": " Our animation team handles specialized tools for 2D animation that allows to achieve the highest quality from frame to frame animation to deformations to achieve great realism. "
                 },
                 "uiux_design": {
                     "title": "UI / UX DESIGN",
@@ -132,7 +149,7 @@
                 },
                 "trainings": {
                     "title": "TRAINING",
-                    "desc": "We train in all aspects of videogame development."
+                    "desc": " We train in all aspects of videogame development."
                 }
             }
         },
@@ -141,7 +158,7 @@
             "description" : "Unit responsible for designing, developing and implementing software and hardware that solve problems using automations and devices that connect to the Internet for the purpose of remotely monitoring and controlling situations or performing any specific remote action from anywhere in the world or within an area of coverage.",
             "events": {
                 "ane2018": {
-                    "title": "VIII INTERNATIONAL CONGRESS OF THE SPECTRUM",
+                    "title": " VIII INTERNATIONAL CONGRESS OF THE SPECTRUM ",
                     "sub": "Assistants and Reviewers",
                     "desc": "Constantly contributing to the project of regulatory simplification of the regulation of the spectrum in free band."
                 },
@@ -178,7 +195,7 @@
         "media" : {
             "call2action": "Show your best face",
             "description" : " Unit dedicated to the design, and implementation of communication strategies, mass media and merchandising; We develop projects that fit the needs of our customers. ",
-            "events": {
+"events": {
                 "meetUp": {
                     "sub": "First Meet-up",
                     "desc": "Development of videogames: where do I start?"
@@ -189,8 +206,8 @@
             },
             "service": {
                 "campsMarketing": {
-                    "title": "MARKETING CAMPAIGNS",
-                    "desc": "We design marketing campaigns specialized in generating high impact according to your project from social initiatives to entertainment in video games from start to finish."
+                    "title": "MARKETING CAMPAINGS",
+                    "desc": " We design marketing campaigns specialized in generating high impact according to your project from social initiatives to entertainment in video games from start to finish."
                 },
                 "edicionVideo": {
                     "title": "AUDIOVISUAL PRODUCTION",
@@ -227,7 +244,7 @@
         },
         "science" : {
             "call2action": "Discover the complexity of the universe",
-            "description" : "Unit dedicated to the investigation, simulation and prototyping of complex environments, using tools of analysis and obtaining of information such as data mining, analysis of raster data, metaheuristics; In addition to training and scientific dissemination.",
+            "description" : "Unit dedicated to the investigation, simulation and prototyping of complex environments, using tools of analysis and obtaining of information such as data mining, analysis of raster data, metaheuristics; In addition to training and scientific dissemination. ",
             "events": {
                 "meetup": {
                     "sub": "First Meetup",
@@ -281,14 +298,13 @@
                 "completed": {
                     "arc": "Website and Administrative Platform of ARC Lawyers",
                     "ashara": "Ashara Studios Website",
-                    "complexud": " ComplexUD Website",
-                    "globalplate": "Global Palate Website",
+                    "complexud": " ComplexUD Website ",
+                    "globalplate": "Global Palate Website ",
                     "hsabogal":"Horti Sabogal Website"
                 },
                 "ongoing": {
-                    "actis": "Suit of Software services for public and private entities",
-                    "chainomy": "Social Network to support collaborative economies."
-                }
+                    "actis": " Suit of Software services for public and private entities ",
+                     "chainomy": "Social Network to support collaborative economies."                }
             },
             "service": {
                 "pagWeb": {
@@ -319,3 +335,4 @@
         }
     }
 }
+
