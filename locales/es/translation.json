@@ -14,32 +14,31 @@
         "msgPlaceholder": "...lo que nos quieras decir"
     },
     "heroes": {
-        "andreaRamirez": "CMO Ashara Studios/Desarrolladora Front End",
-        "andresRodriguez": "CEO Ashara Studios",
-        "carlosBecerra": "Desarrollador de Videojuegos",
+        "andreaRamirez": "CMO Ashara Studios /  Community manager / Frontend Developer",
+        "andresRodriguez": "CEO Ashara Studios / Scrum Master / Backend Developer",
+        "carlosBecerra": "Game Developer / Unity Developer",
         "diegoMena": "Director Comercial/Desarrollador IoT",
         "diegoTabares": "Anatomista/Artista Plástico",
-        "estebanMartinez": "Diseñador Gráfico/Ilustrador/Modelador 3D",
+        "estebanMartinez": "Diseñador Gráfico / Ilustrador / Modelador 3D",
         "juanJauregui": "CSO Ashara Studios/Músico",
-        "leonardoCucaita": "Diseñador Gráfico/Animador/Modelador 3D",
-        "sandraCastro": "CCO Ashara Studios/Productora Audiovisual/Productora de contenidos/Guionista",
+        "leonardoCucaita": "Diseñador Gráfico / Animador / Modelador 3D",
+        "sandraCastro": "CCO Ashara Studios / Productora Audiovisual / Guionista",
         "andresCabrera": "CFO Ashara Studios",
-        "camiloTorres": "CGO Ashara Games",
-        "danielFlorez": "Investigador",
+        "camiloTorres": "CGO Ashara Studios / Lead game designer",
+        "danielFlorez": "Data Analyst / Researcher",
         "diegoGuerra": "Desarrollador Full Stack",
-        "erickGarzon": "Desarrollador IoT",
-        "felipeMontoya": "CLO Ashara Studios",
+        "erickGarzon": "Electronics devices and systems Developer / Security Analyst / Researcher",
+        "felipeMontoya": "CLO Ashara Studios / Asesor Comercial / Scrum Master",
         "fredyRodriguez": "Desarrollador de Videojuegos/Front End",
         "miguelRamirez": "CTO Ashara Studios",
         "nataliaBarbosa": "Desarrolladora IoT",
-        "sebastianOrozco": "Desarrollador Front End",
+        "sebastianOrozco": "Front End Developer",
         "sebastianTabares": "CTO Ashara IoT",
-        "alexBustos": "CIoT Ashara IoT",
-        "rodrigoAlvarez": "Animador/Ilustrador",
-        "carlosAcosta": "CRO Ashara Science",
-        "maribelLopez": "Diseñadora Gráfica/Ilustradora",
-        "miguelBuitrago": "CTO Ashara Science",
-        "juanPabloMoreno": "Desarrollador Full Stack/Videojuegos"
+        "alexBustos": "CIoT Ashara Studios / Electronics Product Chief / IoT Developer",
+        "rodrigoAlvarez": "Animador / Ilustrador",
+        "carlosAcosta": "CRO Ashara Studios",
+        "maribelLopez": "Graphic designer / illustrator / Concep artist",
+        "miguelBuitrago": "CTO Ashara Science"
     },
     "home": {
         "slogan": "Trascendiendo el presente<1/>para crear el futuro",
@@ -61,12 +60,9 @@
         "units": "Unidades"
     },
     "unit" : {
-        "animProgs" : "Programas de Animación",
         "clients" : "Nuestros Clientes",
         "completed" : "Realizados",
-        "devEngines" : "Motores de Desarrollo",
         "events" : "Eventos",
-        "illustration" : "Ilustración",
         "ongoing" : "En Marcha",
         "portfolio" : "Portafolio",
         "projects" : "Proyectos",
@@ -108,7 +104,12 @@
         },
         "games" : {
             "call2action": "Ven a vivir una gran aventura",
-            "description" : "Unidad dedicada al diseño y desarrollo  de videojuegos multiplataformas.",
+            "description" : "Unidad dedicada al diseño y desarrollo de videojuegos para móviles y pc; además realiza capacitaciones de diseño y desarrollo de videojuegos.",
+            "technologies":{
+              "section1" : "Ilustración",
+              "section2" : "Programas de Animación",
+              "section3" : "Motores de Desarrollo"
+            },
             "events": {
                 "sofa2017": {
                     "sub": "Pre-Alfa de Exorcist",
@@ -156,6 +157,12 @@
         "iot" : {
             "call2action": "Conectamos tu mundo",
             "description" : "Unidad de Ashara Studios encargada de diseñar, desarrollar e implementar software y hardware para solucionar problemas empleando automatismos y dispositivos que se conectan a internet con el propósito de monitorear y controlar remotamente situaciones o bien realizar alguna acción remota en específico desde cualquier parte del mundo o dentro de una zona de cobertura.",
+            "technologies":{
+              "section1" : "Comunicación",
+              "section2" : "Diseño",
+              "section3" : "Plataformas",
+              "section4" : "Protocolos"
+            },
             "events": {
                 "ane2018": {
                     "title": "VIII CONGRESO INTERNACIONAL DEL ESPECTRO",
@@ -279,6 +286,14 @@
         "soft" : {
             "call2action": "Construimos tus ideas",
             "description" : "Unidad dedicada al diseño, desarrollo, implementación y despliegue de plataformas tecnológicas como páginas web, plataformas web, aplicaciones de escritorio, aplicaciones móviles, aplicaciones en Unity para proyectos 3D y gamificación.",
+            "technologies": {
+              "section1":"FrontEnd",
+              "section2":"BackEnd",
+              "section3":"Base de Datos",
+              "section4":"DevOpps",
+              "section5":"Inteligencia Artificial",
+              "section6":"CMS"
+            },
             "events": {
                 "i6k_bogota": {
                     "sub": "Circuito Bogotá",
