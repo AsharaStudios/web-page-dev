@@ -33,8 +33,8 @@
       "miguelRamirez": "Director de Tecnologías",
       "nataliaBarbosa": " IoT Developer ",
       "sebastianOrozco": "Front-end Developer ",
-      "sebastianTabares": " IoT Developer / Full Stack Developer ",
-      "alexBustos": "Director de Ashara IOT / Director de Proyectos Electrónicos / IOT Developer",
+      "sebastianTabares": "Director de Tecnologías Ashara IoT / IoT Developer / Full Stack Developer ",
+      "alexBustos": "Director de Ashara IoT / Director de Proyectos Electrónicos / IOT Developer",
       "rodrigoAlvarez": "Animador / Ilustrador",
       "carlosAcosta": "Director de Ashara Science / Arquitecto / Modelador 3D",
       "maribelLopez": "Diseñadora Gráfica / Ilustradora / Artista de Concepto",
@@ -60,22 +60,22 @@
         "subject": "Asunto",
         "units": "Unidades"
     },
-    "unit" : {
-        "clients" : "Nuestros Clientes",
-        "completed" : "Realizados",
-        "events" : "Eventos",
-        "ongoing" : "En Marcha",
-        "portfolio" : "Portafolio",
-        "projects" : "Proyectos",
-        "publishers" : "Publicadores",
-        "services" : "Servicios",
-        "socialNetworksCall" : "Síganos en ...",
-        "techs" : "Tecnologías<1/>que usamos"
+    "unit": {
+        "clients": "Nuestros Clientes",
+        "completed": "Realizados",
+        "events": "Eventos",
+        "ongoing": "En Marcha",
+        "portfolio": "Portafolio",
+        "projects": "Proyectos",
+        "publishers": "Publicadores",
+        "services": "Servicios",
+        "socialNetworksCall": "Síganos en ...",
+        "techs": "Tecnologías<1/>que usamos"
     },
-    "units" : {
-        "energy" : {
+    "units": {
+        "energy": {
             "call2action": "",
-            "description" : "Unidad dedicada a prestar servicios entorno a la energía siendo proveedores y comercializadores de energías verdes, buscando la mayor eficiencia en costos para nuestros clientes a través del uso de energías limpias y servicios de consultoría para transformar la forma en que la consumimos y hacerla amigable con el medio ambiente. ",
+            "description": "Unidad dedicada a prestar servicios entorno a la energía siendo proveedores y comercializadores de energías verdes, buscando la mayor eficiencia en costos para nuestros clientes a través del uso de energías limpias y servicios de consultoría para transformar la forma en que la consumimos y hacerla amigable con el medio ambiente. ",
             "service": {
                 "calculoCompensaciones": {
                     "title": "CONSULTORÍA CÁLCULO DE COMPENSACIONES",
@@ -103,13 +103,13 @@
                 }
             }
         },
-        "games" : {
+        "games": {
             "call2action": "Ven a vivir una gran aventura",
-            "description" : "Unidad dedicada al diseño y desarrollo de videojuegos para móviles y pc; además realiza capacitaciones de diseño y desarrollo de videojuegos.",
-            "technologies":{
-              "section1" : "Ilustración",
-              "section2" : "Programas de Animación",
-              "section3" : "Motores de Desarrollo"
+            "description": "Unidad dedicada al diseño y desarrollo de videojuegos para móviles y pc; además realiza capacitaciones de diseño y desarrollo de videojuegos.",
+            "technologies": {
+                "ilustration": "Ilustración",
+                "animation": "Programas de Animación",
+                "development": "Motores de Desarrollo"
             },
             "events": {
                 "sofa2017": {
@@ -155,14 +155,14 @@
                 }
             }
         },
-        "iot" : {
+        "iot": {
             "call2action": "Conectamos tu mundo",
-            "description" : "Unidad de Ashara Studios encargada de diseñar, desarrollar e implementar software y hardware para solucionar problemas empleando automatismos y dispositivos que se conectan a internet con el propósito de monitorear y controlar remotamente situaciones o bien realizar alguna acción remota en específico desde cualquier parte del mundo o dentro de una zona de cobertura.",
-            "technologies":{
-              "section1" : "Comunicación",
-              "section2" : "Diseño",
-              "section3" : "Plataformas",
-              "section4" : "Protocolos"
+            "description": "Unidad de Ashara Studios encargada de diseñar, desarrollar e implementar software y hardware para solucionar problemas empleando automatismos y dispositivos que se conectan a internet con el propósito de monitorear y controlar remotamente situaciones o bien realizar alguna acción remota en específico desde cualquier parte del mundo o dentro de una zona de cobertura.",
+            "technologies": {
+                "comunication": "Comunicación",
+                "design": "Diseño",
+                "platforms": "Plataformas",
+                "protocols": "Protocolos"
             },
             "events": {
                 "ane2018": {
@@ -200,9 +200,10 @@
                 }
             }
         },
-        "media" : {
+        "media": {
             "call2action": "Muestra tu mejor cara",
-            "description" : "Unidad dedicada al diseño, e implementación de estrategias de comunicación, mass media y merchandising; desarrollamos proyectos que se ajustan a las necesidades de nuestros clientes.","events": {
+            "description": "Unidad dedicada al diseño, e implementación de estrategias de comunicación, mass media y merchandising; desarrollamos proyectos que se ajustan a las necesidades de nuestros clientes.",
+            "events": {
                 "meetUp": {
                     "sub": "Primer Meet-up",
                     "desc": "Desarrollo de videojuegos: ¿por dónde comienzo?"
@@ -226,9 +227,9 @@
                 }
             }
         },
-        "school" : {
+        "school": {
             "call2action": "Alimenta tu mente",
-            "description" : "Unidad dedicada a la enseñanza transdisciplinar por medio de educación efectiva a través de cursos y fortalecimiento de comunidades.",
+            "description": "Unidad dedicada a la enseñanza transdisciplinar por medio de educación efectiva a través de cursos y fortalecimiento de comunidades.",
             "events": {
                 "gameAudioTalks": {
                     "title": "Hablemos de Game Audio",
@@ -244,14 +245,14 @@
             },
             "service": {
                 "cursos": {
-                    "title": "CURSOS",
+                    "title": "Cursos",
                     "desc": "Dictamos cursos en cualquiera de los ámbitos que manejamos de manera profesional; video juegos, desarrollo de software, ciencia, internet de las cosas, marketing y comunicaciones, entre otros."
                 }
             }
         },
-        "science" : {
+        "science": {
             "call2action": "Descubre la complejidad del universo",
-            "description" : "Unidad dedicada a la investigación, simulación y prototipado de entornos complejos, utilizando herramientas de análisis y obtención de información como minería de datos, análisis de datos ráster, metaheurísticas; además de capacitación y divulgación científica. ",
+            "description": "Unidad dedicada a la investigación, simulación y prototipado de entornos complejos, utilizando herramientas de análisis y obtención de información como minería de datos, análisis de datos ráster, metaheurísticas; además de capacitación y divulgación científica. ",
             "events": {
                 "meetup": {
                     "sub": "Primer Meetup",
@@ -284,16 +285,16 @@
                 }
             }
         },
-        "soft" : {
+        "soft": {
             "call2action": "Construimos tus ideas",
-            "description" : "Unidad dedicada al diseño, desarrollo, implementación y despliegue de plataformas tecnológicas como páginas web, plataformas web, aplicaciones de escritorio, aplicaciones móviles, aplicaciones en Unity para proyectos 3D y gamificación.",
+            "description": "Unidad dedicada al diseño, desarrollo, implementación y despliegue de plataformas tecnológicas como páginas web, plataformas web, aplicaciones de escritorio, aplicaciones móviles, aplicaciones en Unity para proyectos 3D y gamificación.",
             "technologies": {
-              "section1":"FrontEnd",
-              "section2":"BackEnd",
-              "section3":"Base de Datos",
-              "section4":"DevOpps",
-              "section5":"Inteligencia Artificial",
-              "section6":"CMS"
+                "frontend": "FrontEnd",
+                "backend": "BackEnd",
+                "db": "Base de Datos",
+                "dev-ops": "DevOps",
+                "ai": "Inteligencia Artificial",
+                "cms": "CMS"
             },
             "events": {
                 "i6k_bogota": {
@@ -315,7 +316,7 @@
                     "ashara": "Sitio Web de Ashara Studios",
                     "complexud": "Sitio Web de ComplexUD",
                     "globalplate": "Sitio Web de Global Palate",
-                    "hsabogal":"Sitio Web de Horti Sabogal"
+                    "hsabogal": "Sitio Web de Horti Sabogal"
                 },
                 "ongoing": {
                     "actis": "Suit de servicios de Software para entidades públicas y privadas",
