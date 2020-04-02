@@ -2,12 +2,71 @@
     "about": {
         "description": "We are a leading company in the creation of ideas with the technological development that is transformed in a positive way the environment in which we live as the projects of our clients through the planes of the technological development that involves custom software, video games / gamification, research and simulations as our main tools to provide quality to our products and services.",
         "culture": {
-            "title": "CULTURE",
+            "title": "CORPORATE CULTURE",
             "phrase": "\"The flutter of a butterfly can generate a tornado on the other side of the world\"",
-            "explain": "As in the theory of chaos and the example of the butterfly, we understand the importance of small changes that generate currents of global character, in a constant cycle of evolution and improvement, learning every day to create real changes that improve the world where we all live."
+            "explain": "Ashara Studios is a horizontal and self-organized company that promotes happiness. Our diverse, talented and disciplined team creates products and opportunities collaboratively to support our sense of belonging.",
+            "explain2": "Our headquarters are based in Bogota Colombia but we rely on remote work mostly",
+            "explain3": "PS: We hate crunch"
             ,"purpose":{
-                "title": "PURPOSE",
-                "description": "asdasdasd"
+                "title": "Purpose",
+                "description": "We want to create high quality video games that transcend into transmedia products to give people meaningful experiences."
+            },
+            "kindOfPerson":{
+                "title": "Who works at Ashara Studios?",
+                "description": "We look for type T profiles, in other words, generalists who can stand out in a specific area and our team members’ life purpose should resonate with our purpose as a company."
+            },
+            "values":{
+                "title": "What are our values?",
+                "subtitle1": "Our Essence",
+                "description1": "We at Ashara Studios genuinely work with passion and love to bring happiness to others. To us, showing our customers and communities that we care it’s a high priority. On the other hand, our goal as a company is a high value that comes from the interactions between our team members and goes beyond our individuality.",
+                "subtitle2": "Communities",
+                "description2": "We boost the latin american video game industry by creating diverse communities in order to share knowledge. We see in teaching and learning a way to grow and to create a healthy ecosystem for any industry; our community is really important for us.",
+                "subtitle3": "Self-organization",
+                "description3": "We start from assuming that we know how to work and test our skills. Besides we are aware how important are each team member’s contributions from their own perspective. We promote freedom to choose, create and lead projects and we think that leadership is an emergent skill we all can take over in specific moments. We are all capable of be in charge of handling news and hardship.",
+                "subtitle4": "Respect",
+                "description4": "We celebrate diversity at Ashara Studios and we think the best way to do promote an inclusive and peaceful environment is by getting rid of homophobia, sexism, xenophobia, racism, harassment and any type of discrimination or violence.",
+                "subtitle5": "Responsability",
+                "description5": "Our team members have freedom to choose their projects. That way they take over the responsibility of doing their best to pilot them through. We highly value responsibility since it is a way to respect team members in general and the team involved in the specific project. Freedom and responsibility go hand in hand and they complement each other in Ashara Studios. ",
+                "subtitle6": "Communication",
+                "description6": "We are a community and to us communication is key to make decisions or solve problems. Feedback on the other hand is an important tool to grow so everyone is willing to give and get it.",
+                "subtitle7": "Making decisions",
+                "description7": "Team members at Ashara Studios have complete access to all projects and the information of the company and as a result, we’re all able to listen and to address any inconvenience on the way. We don’t rely on decisions made by the majority or decisions that must be accepted by everybody. On the contrary, we make decisions through a council made by people involved directly or experts in the related field in order to preserve the natural flow of the organization.",
+                "subtitle8": "Team work",
+                "description8": "We make projects collaboratively at Ashara Studios and if the company looks for creating high impact projects, the members of the organization must be able to work as a team as best as possible. People can make incredible things but teams make impossible things real. "
+            },
+            "workAndComunication":{
+                "title": "How do we work and communicate at Ashara Studios?",
+                "description": "People in the company can choose any project they want to take part of and he/she is not attached to existing projects. Also, each team member at Ashara Studios has complete freedom to create any projects and to look for any resources within the team. Such projects must be aligned with the purpose of the organization and they also must be self-driven. Likewise, Ashara Studios projects must be self managed from the legal and financial aspects to production related procedures that make teams completely responsible for them. ",
+                "description2": "Discord is our main communication tool. We have channels for each project in it and it is also the main tool to keep in touch with our communities. We use Discord to hold team meetings and we consider it as the go for option to stay in touch with all Ashara Studios team members. However, it is worth mentioning that we strictly use our corporate emails to contact external stakeholders.",
+                "description3": "Online meetings lets us boost remote communication. We always agree on the best time for it between team members and we report our progress during each one. Stand ups during meetings usually end with our co-workers’ feedback.",
+                "description4": "We keep our documentation both English and Spanish. A good command of the English language is fundamental in Ashara Studios because our industry and our contacts around the world work using this language.",
+                "description5": "We use Agile methodology to develop our projects. According to it, each week has a sprint that team members plan tasks for. We use Trello to organize tasks in cards that let us trace the process of all activities within a project. Trello cards help us also to measure time and to monitor the productivity of each member involved in the development of the project."
+            },
+            "feedBack":{
+                "title": "Feedback",
+                "description": "Feedback usually works through a survey which team members of respective teams provides the following information anonymously to project partners:",
+                "description2": "Each item is ranked from 1 to 6 except for the suggestions item. They are delivered to each team member on a monthly basis.",
+                "item1": "-Technical level",
+                "item2": "-Productivity",
+                "item3": "-Interaction within the team ",
+                "item4": "-Contribution to the project",
+                "item5": "-Suggestions"
+            },
+            "specialDays":{
+                "title": "Special dates",
+                "subtitle1": "Office Day",
+                "description1": "Office days are important for the company. Team members involved in a specific project have to turn up to the organization premises to undertake creative and testing activities. Office days take place when the projects need them.",
+                "subtitle2": "General meeting",
+                "description2": "General meetings are on site meetings that are mandatory to all staff. They cover a relevant topic that is related to the projects or the corporate culture. They take place each three months, though members can be called out to an extra one if critical issues affect the company. Team members assistance is mandatory.",
+                "subtitle3": "End of the year meeting",
+                "description3": "This sort of meeting takes place at the end of the year and we discuss  the progress of the projects. We also cover the financial balance of the company in End of the year meetings. Besides that, we use time wisely during them to evaluate plans for the following year and we enjoy ourselves at the end of the agenda."
+            },
+            "conflicts":{
+                "title": "Conflict resolution procedure",
+                "description": "Conflict resolution needs to be conducted in the following day:",
+                "item1": "-Conflict must be solved by the involved individuals only.",
+                "item2": "-If conflicted can’t be solved at the stage, an external unbiased team member must be brought upon as a moderator. Such moderator must keep the issue confidential.",
+                "item3": "-If the conflict continues on, an extra team member must take part of the conflict procedure and then the whole team make decision about the issue."
             }
         },
         "heroesTitle": "OUR HEROES"
@@ -19,19 +78,19 @@
     },
     "heroes": {
         "andreaRamirez": "Community Manager / Front-end Developer ",
-        "andresRodriguez": "Director Ejecutivo / Scrum Master / Back-end Developer ",
+        "andresRodriguez": "CEO / Scrum Master / Back-end Developer ",
         "carlosBecerra": "Video Game Developer / Unity Developer",
-        "estebanMartinez": "Diseñador Gráfico / Ilustrador / Modelador 3D",
-        "juanJauregui": "Músico",
-        "leonardoCucaita": "Diseñador Gráfico / Animador / Modelador 3D",
-        "andresCabrera": "Director Financiero",
-        "camiloTorres": "Líder Diseñador de Juegos ",
+        "estebanMartinez": "Graphic Designer / Illustrator / 3D Modeler",
+        "juanJauregui": "Sound Designer",
+        "leonardoCucaita": "Graphic Designer / Animator / 3D Modeler",
+        "andresCabrera": "CFO",
+        "camiloTorres": "Lead Game Designer",
         "fredyRodriguez": " Video Game Developer / Front-end Developer ",
         "nataliaBarbosa": "IoT Developer",
         "sebastianTabares": "IoT Developer / Full Stack Developer ",
         "alexBustos": "IoT Developer",
-        "rodrigoAlvarez": "Animador / Ilustrador",
-        "maribelLopez": "Diseñadora Gráfica / Ilustradora / Artista de Concepto"
+        "rodrigoAlvarez": "Animator / Illustrator",
+        "maribelLopez": "Graphic Designer / Illustrator / Concept Artist"
     },
     "home": {
         "slogan": "Transcending the present<1 />to create the future\t",
