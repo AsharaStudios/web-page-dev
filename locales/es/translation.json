@@ -72,20 +72,14 @@
         "msgPlaceholder": "...lo que nos quieras decir"
     },
     "heroes": {
-        "andreaRamirez": "Community Manager / Front-end Developer ",
-        "andresRodriguez": "Director Ejecutivo / Scrum Master / Back-end Developer ",
-        "carlosBecerra": "Video Game Developer / Unity Developer",
-        "estebanMartinez": "Diseñador Gráfico / Ilustrador / Modelador 3D",
-        "juanJauregui": "Músico",
-        "leonardoCucaita": "Diseñador Gráfico / Animador / Modelador 3D",
-        "andresCabrera": "Director Financiero",
-        "camiloTorres": "Líder Diseñador de Juegos ",
-        "fredyRodriguez": " Video Game Developer / Front-end Developer ",
-        "nataliaBarbosa": "IoT Developer",
-        "sebastianTabares": "IoT Developer / Full Stack Developer ",
-        "alexBustos": "IoT Developer",
-        "rodrigoAlvarez": "Animador / Ilustrador",
-        "maribelLopez": "Diseñadora Gráfica / Ilustradora / Artista de Concepto"
+        "grumysh": "Lady Voxel / Front-end Developer",
+        "yuelwolf": "The presence / Project manager",
+        "raideos": "Lord designer / Video Game Developer / Unity Developer",
+        "tomThePurple": "Dungeon Director / Voxel Artist",
+        "sukutrulumRumble": "Lord of Lore / Animator 3D / Digital Designer",        
+        "JoseMPT": "Lord of Sandbox Maker",
+        "xXGioXx": "Lord of Voxel",
+        "Quesofou": "Lord of Design / Voxel Artist"
     },
     "home": {
         "slogan": "Trascendiendo el presente<1/>para crear el futuro",
