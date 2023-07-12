@@ -1,395 +1,396 @@
 {
-    "about": {
-        "description": "Somos una compañía líder en la creación de ideas con desarrollo tecnológico que transforman de una manera positiva tanto el entorno en el que vivimos como los proyectos de nuestros clientes a través de planes de desarrollo tecnológico que involucran software a medida, vídeo juegos/gamificación, investigación y simulaciones como nuestras principales herramientas para brindar calidad a nuestros productos y servicios.",
-        "culture": {
-            "title": "CULTURA",
-            "phrase": "\"El aleteo de una mariposa puede generar un tornado al otro lado del mundo\"",
-            "explain": "Ashara Studios es una empresa horizontal y auto-organizada que promueve la felicidad y la apropiación a través de espacios y productos generados de manera colaborativa por personas diversas y con un gran talento y disciplina."
-            ,"purpose":{
-                "title": "Proposito",
-                "description": "Crear videojuegos de alta calidad que trascienden en productos transmedia generando experiencias significativas en las personas."
-            },
-            "kindOfPerson":{
-                "title": "¿Qué tipo de persona trabaja en Ashara Studios?",
-                "description": "En Ashara Studios buscamos personas de tipo T, esto significa personas que sean generalistas y que tengan una área en específico en la que sobresalen. Es vital para nosotros que el propósito individual de nuestros miembros resuene con nuestro propósito como empresa."
-            },
-            "values":{
-                "title": "¿Cuales son nuestros valores?",
-                "subtitle1": "Nuestra Esencia",
-                "description1": "En Ashara Studios trabajamos con sinceridad, pasión y amor con el objetivo de brindar felicidad a los demás, y es una prioridad que estos sentimientos se proyecten en nuestros clientes y comunidades. Nuestro propósito como empresa es algo superior que emerge de las interacciones de nuestros miembros y trasciende nuestra individualidad sin dejar de ser parte de nosotros.",
-                "subtitle2": "La Comunidad",
-                "description2": "En Ashara Studios potenciamos la industria latinoamericana de vídeo juegos a través de la creación de comunidades diversas en pro de compartir conocimiento. Entendemos que enseñar y aprender es la manera de crecer y crear un ecosistema saludable para cualquier industria; nuestra comunidad es muy importante.",
-                "subtitle3": "Auto-organización",
-                "description3": "Partimos de la premisa que todos sabemos trabajar y evaluar nuestras habilidades, además somos conscientes de lo importante que es el aporte que cada uno de nosotros damos desde nuestra particularidad. Promovemos la libertad de elegir, crear o liderar proyectos, entendemos el liderazgo como algo emergente que todos podemos asumir en determinados momentos. Todos somos capaces de manejar noticias y situaciones difíciles.",
-                "subtitle4": "Respeto",
-                "description4": "En Ashara Studios celebramos la diversidad y la mejor manera de construir espacios inclusivos y tranquilos es eliminando la homofobia, machismo, xenofobia, racismo, acoso y cualquier tipo de discriminación o violencia.",
-                "subtitle5": "Responsabilidad",
-                "description5": "Nuestros integrantes tienen la libertad de escoger sus proyectos, por lo cual ellos asumen la responsabilidad de hacer todo lo posible para llevarlos a buen término y esto es una forma de respeto hacia sus compañeros y su equipo de trabajo. En Ashara Studios la libertad y la responsabilidad van de la mano y se complementan.",
-                "subtitle6": "Comunicación",
-                "description6": "Somos una comunidad, y dentro de ella la comunicación es un medio esencial tanto para tomar decisiones como para resolver problemas. El feedback es una herramienta fundamental para crecer y todos deben estar dispuestos a darlo y recibirlo.",
-                "subtitle7": "Decisiones",
-                "description7": "En Ashara Studios nuestros miembros tienen acceso a toda la información disponible de la empresa y proyectos por lo cual sabemos escuchar y atender a cualquier inconveniente que exista. No creemos en las decisiones tomadas por una mayoría ni en las decisiones donde todos tienen que estar de acuerdo. Tomamos las decisiones a través de los consejos de las personas afectadas y/o con más experiencia, permitiendo seguir el flujo natural de la organización.",
-                "subtitle8": "Trabajo en Equipo",
-                "description8": "Los proyectos de Ashara Studios los realizamos de manera colaborativa, si se quiere crear proyectos de alto impacto, es necesario que todos los integrantes sean capaces de trabajar en equipo de la mejor manera. Las personas hacen cosas increíbles los equipos hacen realidad lo imposible."
-            },
-            "workAndComunication":{
-                "title": "¿Cómo trabajamos y nos comunicamos?",
-                "description": "Cada persona busca en qué proyecto quiere participar y no está atado a los proyectos ya existentes. También cada miembro de Ashara Studios tiene total libertad de crear sus propios proyectos y buscar los recursos necesarios dentro de los miembros de la organización. Estos proyectos deben estar alineados al propósito organizacional y además son autónomos. De igual manera los proyectos en Ashara Studios deben ser auto gestionados desde su parte legal, administrativa hasta lo relacionado con la producción de los mismos haciendo que los equipos sean completamente responsables de ellos.Toda nuestra documentación está en inglés y en español. El manejo del inglés es fundamental para Ashara Studios porque nuestra industria y nuestras relaciones comerciales funcionan con este idioma.",
-                "description2": "Para el desarrollo de los proyectos utilizamos la metodología Agile, donde realizamos sprints semanales en los cuales los equipos definen qué tareas van a realizar durante esa semana y utilizando Trello organizamos estas tareas en tarjetas que nos permitan visualizar el progreso de las actividades dentro de un proyecto.Las tarjetas de Trello nos ayudan también a medir el tiempo y entender la productividad de cada miembro del equipo involucrado en el desarrollo del producto."
-            },
-            "feedBack":{
-                "title": "Feedback",
-                "description": "El feedback funciona a través de una encuesta donde los miembros de cada equipo aportan la siguiente información de forma anónima para cada uno de sus compañeros:",
-                "description2": "Cada uno de estos puntos a excepción de las sugerencias se evalúan de 1 a 6 y son entregados a cada miembro de manera mensual.",
-                "item1": "-Nivel técnico",
-                "item2": "-Productividad",
-                "item3": "-Interacción con el grupo",
-                "item4": "-Contribución  al proyecto",
-                "item5": "-Recomendaciones"
-            },
-            "specialDays":{
-                "title": "Dias especiales",
-                "subtitle1": "Office Day",
-                "description1": "Esta es una fecha importante dentro de la empresa, en la cual todos los miembros involucrados en determinado proyecto deben asistir de forma presencial a la oficina para realizar actividades creativas y de testing. Los Office Day se realizan cuando el proyecto lo demande.",
-                "subtitle2": "Reuniones generales",
-                "description2": "Son reuniones presenciales en las que deben asistir todos los miembros activos de la empresa y se habla sobre algún tema relevante enfocado a los proyectos y la cultura organizacional. Éstas se realizan cada 3 meses, aunque siempre se puede convocar a una reunión general extraordinaria si algo crítico está sucediendo dentro de la empresa. Su asistencia es obligatoria.",
-                "subtitle3": "Cierre de fin de año",
-                "description3": "Es una reunión que se realiza en los últimos días de cada año. En ella hablamos sobre el balance de todos los proyectos y el rendimiento financiero de la empresa. También aprovechamos este momento para analizar las proyecciones para el siguiente año y disfrutamos de un espacio de integración al final del día donde todos compartimos un buen momento."
-            },
-            "conflicts":{
-                "title": "Resolución de conflictos",
-                "description": "Para la resolución de conflictos se debe seguir el siguiente proceso:",
-                "item1": "-El problema en un inicio se debe intentar resolver entre las personas involucradas.",
-                "item2": "-Si el problema no se logra resolver se debe llamar a un miembro ajeno y  neutral a la situación que sirva como mediador, el mediador debe mantener total confidencialidad del problema.",
-                "item3": "-Si el problema persiste se debe llamar a todo el equipo y como resultado el equipo tomará las medidas pertinente."
-            }
-        },
-        "heroesTitle": "NUESTROS HEROES"
+  "about": {
+    "description": "Somos una compañía líder en la creación de ideas con desarrollo tecnológico que transforman de una manera positiva tanto el entorno en el que vivimos como los proyectos de nuestros clientes a través de planes de desarrollo tecnológico que involucran software a medida, vídeo juegos/gamificación, investigación y simulaciones como nuestras principales herramientas para brindar calidad a nuestros productos y servicios.",
+    "culture": {
+      "title": "CULTURA",
+      "phrase": "\"El aleteo de una mariposa puede generar un tornado al otro lado del mundo\"",
+      "explain": "Ashara Studios es una empresa horizontal y auto-organizada que promueve la felicidad y la apropiación a través de espacios y productos generados de manera colaborativa por personas diversas y con un gran talento y disciplina.",
+      "purpose": {
+        "title": "Proposito",
+        "description": "Crear videojuegos de alta calidad que trascienden en productos transmedia generando experiencias significativas en las personas."
+      },
+      "kindOfPerson": {
+        "title": "¿Qué tipo de persona trabaja en Ashara Studios?",
+        "description": "En Ashara Studios buscamos personas de tipo T, esto significa personas que sean generalistas y que tengan una área en específico en la que sobresalen. Es vital para nosotros que el propósito individual de nuestros miembros resuene con nuestro propósito como empresa."
+      },
+      "values": {
+        "title": "¿Cuales son nuestros valores?",
+        "subtitle1": "Nuestra Esencia",
+        "description1": "En Ashara Studios trabajamos con sinceridad, pasión y amor con el objetivo de brindar felicidad a los demás, y es una prioridad que estos sentimientos se proyecten en nuestros clientes y comunidades. Nuestro propósito como empresa es algo superior que emerge de las interacciones de nuestros miembros y trasciende nuestra individualidad sin dejar de ser parte de nosotros.",
+        "subtitle2": "La Comunidad",
+        "description2": "En Ashara Studios potenciamos la industria latinoamericana de vídeo juegos a través de la creación de comunidades diversas en pro de compartir conocimiento. Entendemos que enseñar y aprender es la manera de crecer y crear un ecosistema saludable para cualquier industria; nuestra comunidad es muy importante.",
+        "subtitle3": "Auto-organización",
+        "description3": "Partimos de la premisa que todos sabemos trabajar y evaluar nuestras habilidades, además somos conscientes de lo importante que es el aporte que cada uno de nosotros damos desde nuestra particularidad. Promovemos la libertad de elegir, crear o liderar proyectos, entendemos el liderazgo como algo emergente que todos podemos asumir en determinados momentos. Todos somos capaces de manejar noticias y situaciones difíciles.",
+        "subtitle4": "Respeto",
+        "description4": "En Ashara Studios celebramos la diversidad y la mejor manera de construir espacios inclusivos y tranquilos es eliminando la homofobia, machismo, xenofobia, racismo, acoso y cualquier tipo de discriminación o violencia.",
+        "subtitle5": "Responsabilidad",
+        "description5": "Nuestros integrantes tienen la libertad de escoger sus proyectos, por lo cual ellos asumen la responsabilidad de hacer todo lo posible para llevarlos a buen término y esto es una forma de respeto hacia sus compañeros y su equipo de trabajo. En Ashara Studios la libertad y la responsabilidad van de la mano y se complementan.",
+        "subtitle6": "Comunicación",
+        "description6": "Somos una comunidad, y dentro de ella la comunicación es un medio esencial tanto para tomar decisiones como para resolver problemas. El feedback es una herramienta fundamental para crecer y todos deben estar dispuestos a darlo y recibirlo.",
+        "subtitle7": "Decisiones",
+        "description7": "En Ashara Studios nuestros miembros tienen acceso a toda la información disponible de la empresa y proyectos por lo cual sabemos escuchar y atender a cualquier inconveniente que exista. No creemos en las decisiones tomadas por una mayoría ni en las decisiones donde todos tienen que estar de acuerdo. Tomamos las decisiones a través de los consejos de las personas afectadas y/o con más experiencia, permitiendo seguir el flujo natural de la organización.",
+        "subtitle8": "Trabajo en Equipo",
+        "description8": "Los proyectos de Ashara Studios los realizamos de manera colaborativa, si se quiere crear proyectos de alto impacto, es necesario que todos los integrantes sean capaces de trabajar en equipo de la mejor manera. Las personas hacen cosas increíbles los equipos hacen realidad lo imposible."
+      },
+      "workAndComunication": {
+        "title": "¿Cómo trabajamos y nos comunicamos?",
+        "description": "Cada persona busca en qué proyecto quiere participar y no está atado a los proyectos ya existentes. También cada miembro de Ashara Studios tiene total libertad de crear sus propios proyectos y buscar los recursos necesarios dentro de los miembros de la organización. Estos proyectos deben estar alineados al propósito organizacional y además son autónomos. De igual manera los proyectos en Ashara Studios deben ser auto gestionados desde su parte legal, administrativa hasta lo relacionado con la producción de los mismos haciendo que los equipos sean completamente responsables de ellos.Toda nuestra documentación está en inglés y en español. El manejo del inglés es fundamental para Ashara Studios porque nuestra industria y nuestras relaciones comerciales funcionan con este idioma.",
+        "description2": "Para el desarrollo de los proyectos utilizamos la metodología Agile, donde realizamos sprints semanales en los cuales los equipos definen qué tareas van a realizar durante esa semana y utilizando Trello organizamos estas tareas en tarjetas que nos permitan visualizar el progreso de las actividades dentro de un proyecto.Las tarjetas de Trello nos ayudan también a medir el tiempo y entender la productividad de cada miembro del equipo involucrado en el desarrollo del producto."
+      },
+      "feedBack": {
+        "title": "Feedback",
+        "description": "El feedback funciona a través de una encuesta donde los miembros de cada equipo aportan la siguiente información de forma anónima para cada uno de sus compañeros:",
+        "description2": "Cada uno de estos puntos a excepción de las sugerencias se evalúan de 1 a 6 y son entregados a cada miembro de manera mensual.",
+        "item1": "-Nivel técnico",
+        "item2": "-Productividad",
+        "item3": "-Interacción con el grupo",
+        "item4": "-Contribución  al proyecto",
+        "item5": "-Recomendaciones"
+      },
+      "specialDays": {
+        "title": "Dias especiales",
+        "subtitle1": "Office Day",
+        "description1": "Esta es una fecha importante dentro de la empresa, en la cual todos los miembros involucrados en determinado proyecto deben asistir de forma presencial a la oficina para realizar actividades creativas y de testing. Los Office Day se realizan cuando el proyecto lo demande.",
+        "subtitle2": "Reuniones generales",
+        "description2": "Son reuniones presenciales en las que deben asistir todos los miembros activos de la empresa y se habla sobre algún tema relevante enfocado a los proyectos y la cultura organizacional. Éstas se realizan cada 3 meses, aunque siempre se puede convocar a una reunión general extraordinaria si algo crítico está sucediendo dentro de la empresa. Su asistencia es obligatoria.",
+        "subtitle3": "Cierre de fin de año",
+        "description3": "Es una reunión que se realiza en los últimos días de cada año. En ella hablamos sobre el balance de todos los proyectos y el rendimiento financiero de la empresa. También aprovechamos este momento para analizar las proyecciones para el siguiente año y disfrutamos de un espacio de integración al final del día donde todos compartimos un buen momento."
+      },
+      "conflicts": {
+        "title": "Resolución de conflictos",
+        "description": "Para la resolución de conflictos se debe seguir el siguiente proceso:",
+        "item1": "-El problema en un inicio se debe intentar resolver entre las personas involucradas.",
+        "item2": "-Si el problema no se logra resolver se debe llamar a un miembro ajeno y  neutral a la situación que sirva como mediador, el mediador debe mantener total confidencialidad del problema.",
+        "item3": "-Si el problema persiste se debe llamar a todo el equipo y como resultado el equipo tomará las medidas pertinente."
+      }
     },
-    "contact": {
-        "emailPlaceholder": "tu@correo.com",
-        "subjectPlaceholder": "resume...",
-        "msgPlaceholder": "...lo que nos quieras decir"
-    },
-    "heroes": {
-        "grumysh": "Lady Voxel / Front-end Developer",
-        "yuelwolf": "The presence / Project manager",
-        "raideos": "Lord designer / Video Game Developer / Unity Developer",
-        "tomThePurple": "Dungeon Director / Voxel Artist",
-        "sukutrulumRumble": "Lord of Lore / Animator 3D / Digital Designer",        
-        "JoseMPT": "Lord of Sandbox Maker",
-        "xXGioXx": "Lord of Voxel",
-        "Quesofou": "Lord of Design / Voxel Artist"
-    },
-    "home": {
-        "slogan": "Trascendiendo el presente<1/>para crear el futuro",
-        "description": "Somos una compañía dedicada a la creación de ideas disruptivas, con el objetivo de brindar soluciones tecnológicas a nuestros clientes y sus organizaciones, a través de servicios que mejoran sus modelos de negocio desde diferentes enfoques como software, ciencia, vídeo juegos, internet de las cosas, educación y marketing.",
-        "redesMsg": "Vemos cada proyecto como una nueva oportunidad de aprender, crecer y continuar avanzando paso a paso, para alcanzar nuestro objetivo de impactar el mundo de una manera positiva."
-    },
-    "misc": {
-        "aboutUs": "Nosotros",
-        "alphaDownload": "¡¡Descarga el Alfa!!",
-        "demoDownload": "¡¡Descarga la Demo!!",
-        "comingSoon": "¡¡Próximamente!!",
-        "contactUs": "Contáctenos",
-        "copy": "Copyright © Ashara Studios 2019",
-        "email": "Correo Electrónico",
-        "followus": "Síguenos en",
-        "message": "Mensaje",
-        "policies": "Políticas de Privacidad",
-        "send": "Enviar",
-        "subject": "Asunto",
-        "units": "Unidades"
-    },
-    "unit": {
-        "clients": "Nuestros Clientes",
-        "completed": "Realizados",
-        "events": "Eventos",
-        "ongoing": "En Marcha",
-        "portfolio": "Portafolio",
-        "projects": "Proyectos",
-        "publishers": "Publicadores",
-        "services": "Servicios",
-        "socialNetworksCall": "Síganos en ...",
-        "techs": "Tecnologías<1/>que usamos"
-    },
-    "units": {
-        "energy": {
-            "call2action": "",
-            "description": "Unidad dedicada a prestar servicios entorno a la energía siendo proveedores y comercializadores de energías verdes, buscando la mayor eficiencia en costos para nuestros clientes a través del uso de energías limpias y servicios de consultoría para transformar la forma en que la consumimos y hacerla amigable con el medio ambiente. ",
-            "service": {
-                "calculoCompensaciones": {
-                    "title": "CONSULTORÍA CÁLCULO DE COMPENSACIONES",
-                    "desc": "Seguimiento a las compensaciones que tiene derecho el usuario por resolución CREG 067/2010, comparando el cálculo de compensaciones de Ashara Energy con el comercializador prestador del servicio."
-                },
-                "eficienciaEnergetica": {
-                    "title": "ASESORÍA EFICIENCIA ENERGÉTICA",
-                    "desc": "Proponemos estrategias de consumo de energía de acuerdo con las oportunidades que presenta el mercado."
-                },
-                "cumplimientoCreg38_2014": {
-                    "title": "ASESORÍA PARA CUMPLIMIENTO DE CÓDIGO DE MEDIDA CREG 038 DE 2014",
-                    "desc": "Proceso por el cual se solicita una reclamación al comercializador prestador del servicio a través de dos decretos otorgados por el Ministerio de Hacienda y Crédito Público; el 2860 del 9 de diciembre de 2013 los clientes cuya actividad económica principal esté registrada en el RUT en los códigos 011 a 360, 581 y 411 a 439 pueden recibir el beneficio a la contribución en energía eléctrica."
-                },
-                "proyectosEolicosSolares": {
-                    "title": "ASESORÍA PROYECTOS EÓLICOS Y SOLARES",
-                    "desc": "Se toma como base la curva de consumo horaria comparada con el potencial solar en el lugar de la instalación para determinar el tamaño del sistema eólico o solar que permita al cliente reducir parte de su consumo de la red convencional para consumir energía limpia y gratuita en el periodo de generación de la planta."
-                },
-                "contratacionEnergia": {
-                    "title": "ASESORÍA CONTRATACIÓN SUMINISTRO ENERGÍA ELÉCTRICA",
-                    "desc": ""
-                },
-                "exencionContribucion": {
-                    "title": "EXENCIÓN DE CONTRIBUCIÓN",
-                    "desc": ""
-                }
-            }
+    "heroesTitle": "NUESTROS HEROES"
+  },
+  "contact": {
+    "emailPlaceholder": "tu@correo.com",
+    "subjectPlaceholder": "resume...",
+    "msgPlaceholder": "...lo que nos quieras decir"
+  },
+  "heroes": {
+    "grumysh": "Web developer / Voxel Artist",
+    "yuelwolf": "Producer / Project manager",
+    "raideos": "Video Game Developer / Unity Developer",
+    "tomThePurple": "Senior Voxel Artist / Art Director",
+    "sukutrulumRumble": "Senior Voxel Artist / Art Director",
+    "JoseMPT": "Game Maker Developer",
+    "xXGioXx": "Voxel Artist",
+    "dave": "Media Producer / Community Manager",
+    "inari": "Graphic Designer / 2D Artist"
+  },
+  "home": {
+    "slogan": "Trascendiendo el presente<1/>para crear el futuro",
+    "description": "Somos una compañía dedicada a la creación de ideas disruptivas, con el objetivo de brindar soluciones tecnológicas a nuestros clientes y sus organizaciones, a través de servicios que mejoran sus modelos de negocio desde diferentes enfoques como software, ciencia, vídeo juegos, internet de las cosas, educación y marketing.",
+    "redesMsg": "Vemos cada proyecto como una nueva oportunidad de aprender, crecer y continuar avanzando paso a paso, para alcanzar nuestro objetivo de impactar el mundo de una manera positiva."
+  },
+  "misc": {
+    "aboutUs": "Nosotros",
+    "alphaDownload": "¡¡Descarga el Alfa!!",
+    "demoDownload": "¡¡Descarga la Demo!!",
+    "comingSoon": "¡¡Próximamente!!",
+    "contactUs": "Contáctenos",
+    "copy": "Copyright © Ashara Studios 2019",
+    "email": "Correo Electrónico",
+    "followus": "Síguenos en",
+    "message": "Mensaje",
+    "policies": "Políticas de Privacidad",
+    "send": "Enviar",
+    "subject": "Asunto",
+    "units": "Unidades"
+  },
+  "unit": {
+    "clients": "Nuestros Clientes",
+    "completed": "Realizados",
+    "events": "Eventos",
+    "ongoing": "En Marcha",
+    "portfolio": "Portafolio",
+    "projects": "Proyectos",
+    "publishers": "Publicadores",
+    "services": "Servicios",
+    "socialNetworksCall": "Síganos en ...",
+    "techs": "Tecnologías<1/>que usamos"
+  },
+  "units": {
+    "energy": {
+      "call2action": "",
+      "description": "Unidad dedicada a prestar servicios entorno a la energía siendo proveedores y comercializadores de energías verdes, buscando la mayor eficiencia en costos para nuestros clientes a través del uso de energías limpias y servicios de consultoría para transformar la forma en que la consumimos y hacerla amigable con el medio ambiente. ",
+      "service": {
+        "calculoCompensaciones": {
+          "title": "CONSULTORÍA CÁLCULO DE COMPENSACIONES",
+          "desc": "Seguimiento a las compensaciones que tiene derecho el usuario por resolución CREG 067/2010, comparando el cálculo de compensaciones de Ashara Energy con el comercializador prestador del servicio."
         },
-        "games": {
-            "call2action": "Ven a vivir una gran aventura",
-            "description": "Unidad dedicada al diseño y desarrollo de videojuegos para móviles y pc; además realiza capacitaciones de diseño y desarrollo de videojuegos.",
-            "technologies": {
-                "ilustration": "Ilustración",
-                "animation": "Programas de Animación",
-                "development": "Motores de Desarrollo"
-            },
-            "events": {
-                "sofa2017": {
-                    "sub": "Pre-Alfa de Exorcist",
-                    "desc": "Expositores en la Tercer Versión del Made With Unity Colombia en SOFA 2017."
-                },
-                "unityDevD": {
-                    "desc": "Expositores en el Unity Developer Day Colombia."
-                }
-            },
-            "portfolio": {
-                "exorcist": "Exorcist es un juego para móvil, donde el jugador toma el rol de un exorcista, el cual lucha contra criaturas del inframundo para exorcizarlas y poder grabarlas en su libro de sombras. Por medio de una mecánica de dibujar glifos, patrones que se hacen al conectar varios puntos, es posible atacar a las criaturas que el exorcista encuentra",
-                "tom": "Action-RPG game in which Toer must travel through the lands of Asknuk. Above these lands float a series of structures called towers that host Mythic beings responsible for the plague that scourges humanity.",
-                "tbo": "En Un Océano Brillante Eres Mowa, un camarón mantis que se embarca en la aventura de buscar a su familia perdida luego de que un cataclismo mundial cambió para siempre la faz de la tierra inundándola con el océano, que ahora es un lugar oscuro, inestable, y más peligroso que nunca."
-            },
-            "publishers": {
-                "superhippo": "Líder en la industria freemium de los videojuegos. Superhippo ha trabajado para establecerse en el mercado como un publicador exitoso, con más de 40 títulos disponibles en diferentes canales de distribución."
-            },
-            "service": {
-                "vg_devel": {
-                    "title": "DESARROLLO DE VIDEOJUEGOS",
-                    "desc": "Desarrollo de videojuegos construidos de manera transdisciplinar buscando impactar de manera lúdica, educativa y artística cubriendo plataformas tanto de escritorio como móviles."
-                },
-                "vg_design": {
-                    "title": "DISEÑO DE VIDEOJUEGOS",
-                    "desc": "Realizamos diseño de videojuegos a medida de acuerdo a los requerimientos y el enfoque que se quiera dar, el cual puede estar orientado desde el marketing hasta procesos de fidelización."
-                },
-                "concept_art": {
-                    "title": "ARTE CONCEPTUAL",
-                    "desc": "Hacemos maravillosos concept art enfocados a escenarios o interacciones de los diferentes componentes dentro de un juego."
-                },
-                "2Danimation": {
-                    "title": "ANIMACIÓN 2D",
-                    "desc": "Nuestro equipo de animación maneja herramientas especializadas para la animación 2D que permite lograr la mayor calidad, desde animación frame to frame hasta deformaciones para alcanzar gran realismo."
-                },
-                "uiux_design": {
-                    "title": "DISEÑO UI/UX",
-                    "desc": "Diseñamos la mejor experiencia de usuario acompañada de una estética fundamental para generar re-jugabilidad y retención en cualquier tipo de videojuego."
-                },
-                "trainings": {
-                    "title": "CAPACITACIONES",
-                    "desc": "Capacitamos en todos los aspectos de desarrollo en videojuegos."
-                }
-            }
+        "eficienciaEnergetica": {
+          "title": "ASESORÍA EFICIENCIA ENERGÉTICA",
+          "desc": "Proponemos estrategias de consumo de energía de acuerdo con las oportunidades que presenta el mercado."
         },
-        "iot": {
-            "call2action": "Conectamos tu mundo",
-            "description": "Unidad de Ashara Studios encargada de diseñar, desarrollar e implementar software y hardware para solucionar problemas empleando automatismos y dispositivos que se conectan a internet con el propósito de monitorear y controlar remotamente situaciones o bien realizar alguna acción remota en específico desde cualquier parte del mundo o dentro de una zona de cobertura.",
-            "technologies": {
-                "comunication": "Comunicación",
-                "design": "Diseño",
-                "platforms": "Plataformas",
-                "protocols": "Protocolos"
-            },
-            "events": {
-                "ane2018": {
-                    "title": "VIII CONGRESO INTERNACIONAL DEL ESPECTRO",
-                    "sub": "Asistentes y Revisores",
-                    "desc": "Aportando continuamente al proyecto de simplificación normativa de la regulación del espectro en banda libre"
-                },
-                "angelhack": {
-                    "title": "AngelHack Bogotá 2018",
-                    "sub": "Premiados por Hurify e IBM",
-                    "desc": "IoT para la interacción de personas"
-                },
-                "hackRRR": {
-                    "title": "HACKATHON: Reinventa, Realiza y Respira",
-                    "sub": "Primer Lugar",
-                    "desc": "IoT para el monitoreo de calidad del aire"
-                },
-                "ibm": {
-                    "title": "Selección de StartUps de IBM",
-                    "sub": "Ganadores de servicios en la nube",
-                    "desc": "Poder Computacional en la Nube para el IoT"
-                }
-            },
-            "portfolio": {
-                "nympha": "Tecnología agrícola de iluminación LED."
-            },
-            "service": {
-                "solsElectronicas": {
-                    "title": "SOLUCIONES ELECTRÓNICAS",
-                    "desc": "Asesoramiento, diseño e implementación de proyectos electrónicos, eficientes y robustos. Algunas de sus áreas: telemática, telecomunicaciones, telemetría, control, instrumentación industrial y electrónica de potencia, entre otras."
-                },
-                "solsIoT": {
-                    "title": "SOLUCIONES IOT",
-                    "desc": "Conectamos sus dispositivos a Internet, acercando el Internet de las Cosas (IoT, Internet of Things) a su solución. Tenemos experiencia en diversas tecnologías de comunicaciones. Le asesoramos en la tecnología adecuada a sus necesidades de IoT."
-                }
-            }
+        "cumplimientoCreg38_2014": {
+          "title": "ASESORÍA PARA CUMPLIMIENTO DE CÓDIGO DE MEDIDA CREG 038 DE 2014",
+          "desc": "Proceso por el cual se solicita una reclamación al comercializador prestador del servicio a través de dos decretos otorgados por el Ministerio de Hacienda y Crédito Público; el 2860 del 9 de diciembre de 2013 los clientes cuya actividad económica principal esté registrada en el RUT en los códigos 011 a 360, 581 y 411 a 439 pueden recibir el beneficio a la contribución en energía eléctrica."
         },
-        "media": {
-            "call2action": "Muestra tu mejor cara",
-            "description": "Unidad dedicada al diseño, e implementación de estrategias de comunicación, mass media y merchandising; desarrollamos proyectos que se ajustan a las necesidades de nuestros clientes.",
-            "events": {
-                "meetUp": {
-                    "sub": "Primer Meet-up",
-                    "desc": "Desarrollo de videojuegos: ¿por dónde comienzo?"
-                }
-            },
-            "portfolio": {
-                "zonavj": "Comunidad de desarrolladores de videojuegos"
-            },
-            "service": {
-                "campsMarketing": {
-                    "title": "CAMPAÑAS DE MARKETING",
-                    "desc": "Diseñamos campañas de marketing especializadas en la generación de gran impacto acorde a tu proyecto desde iniciativas sociales hasta entretenimiento en video juegos de principio a fin."
-                },
-                "edicionVideo": {
-                    "title": "PRODUCCIÓN AUDIOVISUAL",
-                    "desc": "Construimos desde el guion, pasando por las etapas de pre-producción y terminando en la post-producción de vídeos de alta calidad, fundamentales para mostrar tu idea con la mejor calidad."
-                },
-                "fotografia": {
-                    "title": "FOTOGRAFÍA",
-                    "desc": "Fotografía profesional que se ajusta a las necesidades de tus productos y servicios, de esta forma mostrar lo con la mejor calidad. "
-                }
-            }
+        "proyectosEolicosSolares": {
+          "title": "ASESORÍA PROYECTOS EÓLICOS Y SOLARES",
+          "desc": "Se toma como base la curva de consumo horaria comparada con el potencial solar en el lugar de la instalación para determinar el tamaño del sistema eólico o solar que permita al cliente reducir parte de su consumo de la red convencional para consumir energía limpia y gratuita en el periodo de generación de la planta."
         },
-        "school": {
-            "call2action": "Alimenta tu mente",
-            "description": "Unidad dedicada a la enseñanza transdisciplinar por medio de educación efectiva a través de cursos y fortalecimiento de comunidades.",
-            "events": {
-                "gameAudioTalks": {
-                    "title": "Hablemos de Game Audio",
-                    "sub": "Streaming semanal",
-                    "desc": "Espacio para hablar sobre el Game audio"
-                }
-            },
-            "portfolio": {
-                "cursoProdMus": {
-                    "title": "Producción Musical",
-                    "desc": "Curso de introducción a la producción musical orientado a videojuegos"
-                }
-            },
-            "service": {
-                "cursos": {
-                    "title": "Cursos",
-                    "desc": "Dictamos cursos en cualquiera de los ámbitos que manejamos de manera profesional; video juegos, desarrollo de software, ciencia, internet de las cosas, marketing y comunicaciones, entre otros."
-                }
-            }
+        "contratacionEnergia": {
+          "title": "ASESORÍA CONTRATACIÓN SUMINISTRO ENERGÍA ELÉCTRICA",
+          "desc": ""
         },
-        "science": {
-            "call2action": "Descubre la complejidad del universo",
-            "description": "Unidad dedicada a la investigación, simulación y prototipado de entornos complejos, utilizando herramientas de análisis y obtención de información como minería de datos, análisis de datos ráster, metaheurísticas; además de capacitación y divulgación científica. ",
-            "events": {
-                "meetup": {
-                    "sub": "Primer Meetup",
-                    "desc": "Fractales, Caos, Complejidad por todos lados"
-                },
-                "hackamericas": {
-                    "sub": "TOP 5",
-                    "desc": "Hackathon de Movilidad y Calidad del Aire"
-                }
-            },
-            "portfolio": {
-                "satyrium": "Proyecto para monitorizar, simular y mejorar la calidad de aire"
-            },
-            "service": {
-                "investigacion": {
-                    "title": "INVESTIGACIÓN CIENTÍFICA",
-                    "desc": "Nuestra unidad científica busca construir productos de base tecnológica y organizativa para solucionar problemas reales que son objeto de múltiples disciplinas basados en las herramientas de las ciencias de la complejidad."
-                },
-                "simulaciones": {
-                    "title": "SIMULACIONES",
-                    "desc": "Realizamos simulaciones de entornos complejos donde interactúan desde componentes biológicos, sociales, psicológicos y cualquiera que sea necesario, para ayudar a la toma de decisiones en tiempo real."
-                },
-                "datasets": {
-                    "title": "DATA-SETS",
-                    "desc": "Construimos y ofrecemos set de datos a medida, utilizando herramientas de data-science para obtener cualquier tipo de información solicitada."
-                },
-                "divulgacion": {
-                    "title": "DIVULGACIÓN CIENTÍFICA",
-                    "desc": "Como unidad dedicada y especializada en las ciencias de la complejidad, nos encanta compartir nuestro conocimiento a cualquier tipo de persona como un portal de entrada muy importante en la construcción de grandes ideas."
-                }
-            }
-        },
-        "soft": {
-            "call2action": "Construimos tus ideas",
-            "description": "Unidad dedicada al diseño, desarrollo, implementación y despliegue de plataformas tecnológicas como páginas web, plataformas web, aplicaciones de escritorio, aplicaciones móviles, aplicaciones en Unity para proyectos 3D y gamificación.",
-            "technologies": {
-                "frontend": "FrontEnd",
-                "backend": "BackEnd",
-                "db": "Base de Datos",
-                "dev-ops": "DevOps",
-                "ai": "Inteligencia Artificial",
-                "cms": "CMS"
-            },
-            "events": {
-                "i6k_bogota": {
-                    "sub": "Circuito Bogotá",
-                    "desc": "Mejores innovadores de Bogotá"
-                },
-                "i6k_colombia": {
-                    "sub": "Circuito Colombia",
-                    "desc": "Top 8 innovadores de Colombia."
-                },
-                "nequi": {
-                    "sub": "Game+Code",
-                    "desc": "Seleccionados para proponer gamificación dentro de la plataforma Nequi"
-                }
-            },
-            "portfolio": {
-                "completed": {
-                    "arc": "Sitio Web y Plataforma Administrativa de ARC Abogados",
-                    "ashara": "Sitio Web de Ashara Studios",
-                    "complexud": "Sitio Web de ComplexUD",
-                    "globalplate": "Sitio Web de Global Palate",
-                    "hsabogal": "Sitio Web de Horti Sabogal"
-                },
-                "ongoing": {
-                    "actis": "Suit de servicios de Software para entidades públicas y privadas",
-                    "chainomy": "Red Social para soportar economías colaborativas"
-                }
-            },
-            "service": {
-                "pagWeb": {
-                    "title": "PÁGINAS WEB",
-                    "desc": "Desarrollo de páginas orientadas a procesos de mercadeo, construidas a medida de mano con nuestros clientes buscando la administración más amigable y sencilla para sus contenidos. Cada detalle tiene su justo cuidado, por ello nuestros productos tienen posicionamiento en buscadores online y cercano a los visitantes."
-                },
-                "platWeb": {
-                    "title": "PLATAFORMAS WEB",
-                    "desc": "Servicios especializados que buscan la accesibilidad, automatización, optimización, crecimiento y escalabilidad de su modelo de negocio, enfocado en aumentar su productividad y posicionamiento de su compañía en el ámbito global, apoyado de todas las bondades que ofrecen los últimos avances de la tecnología."
-                },
-                "platMoviles": {
-                    "title": "PLATAFORMAS MÓVILES",
-                    "desc": "Volvemos tu idea de negocio un producto real, con nuestro asesoramiento en ingeniería introducimos tu producto en las tiendas de aplicaciones móviles más importantes: Play Store y App Store. Utilizando los principios de diseño, pioneros en la estética y usabilidad de aplicaciones móviles recibirás un producto que se ajusta a tus necesidades."
-                },
-                "platMultimedia": {
-                    "title": "PLATAFORMAS MULTIMEDIA",
-                    "desc": "Creamos plataformas que interactúan de múltiples maneras con el entorno utilizando conexiones entre diferentes experiencias como ambientes 3D, 2D y hardware a través de internet de las cosas."
-                },
-                "gamificacion": {
-                    "title": "GAMIFICACIÓN",
-                    "desc": "Construimos plataformas enfocadas a las recompensas, generando procesos de fidelización y uso en cualquier dispositivo, a partir de la gamificación tu plataforma web o móvil puede escalar a un siguiente nivel en términos de diversión y usabilidad."
-                },
-                "ingRequerimientos": {
-                    "title": "INGENIERÍA DE REQUERIMIENTOS",
-                    "desc": "Utilizamos nuestros conocimientos para caracterizar y cuantificar lo que necesita su negocio acompañado de los modelos, las especificaciones funcionales y no funcionales. Además de los criterios de priorización que debe tener en cuenta para llevar su proyecto a cabo."
-                }
-            }
+        "exencionContribucion": {
+          "title": "EXENCIÓN DE CONTRIBUCIÓN",
+          "desc": ""
         }
+      }
+    },
+    "games": {
+      "call2action": "Ven a vivir una gran aventura",
+      "description": "Unidad dedicada al diseño y desarrollo de videojuegos para móviles y pc; además realiza capacitaciones de diseño y desarrollo de videojuegos.",
+      "technologies": {
+        "ilustration": "Ilustración",
+        "animation": "Programas de Animación",
+        "development": "Motores de Desarrollo"
+      },
+      "events": {
+        "sofa2017": {
+          "sub": "Pre-Alfa de Exorcist",
+          "desc": "Expositores en la Tercer Versión del Made With Unity Colombia en SOFA 2017."
+        },
+        "unityDevD": {
+          "desc": "Expositores en el Unity Developer Day Colombia."
+        }
+      },
+      "portfolio": {
+        "exorcist": "Exorcist es un juego para móvil, donde el jugador toma el rol de un exorcista, el cual lucha contra criaturas del inframundo para exorcizarlas y poder grabarlas en su libro de sombras. Por medio de una mecánica de dibujar glifos, patrones que se hacen al conectar varios puntos, es posible atacar a las criaturas que el exorcista encuentra",
+        "tom": "Action-RPG game in which Toer must travel through the lands of Asknuk. Above these lands float a series of structures called towers that host Mythic beings responsible for the plague that scourges humanity.",
+        "tbo": "En Un Océano Brillante Eres Mowa, un camarón mantis que se embarca en la aventura de buscar a su familia perdida luego de que un cataclismo mundial cambió para siempre la faz de la tierra inundándola con el océano, que ahora es un lugar oscuro, inestable, y más peligroso que nunca."
+      },
+      "publishers": {
+        "superhippo": "Líder en la industria freemium de los videojuegos. Superhippo ha trabajado para establecerse en el mercado como un publicador exitoso, con más de 40 títulos disponibles en diferentes canales de distribución."
+      },
+      "service": {
+        "vg_devel": {
+          "title": "DESARROLLO DE VIDEOJUEGOS",
+          "desc": "Desarrollo de videojuegos construidos de manera transdisciplinar buscando impactar de manera lúdica, educativa y artística cubriendo plataformas tanto de escritorio como móviles."
+        },
+        "vg_design": {
+          "title": "DISEÑO DE VIDEOJUEGOS",
+          "desc": "Realizamos diseño de videojuegos a medida de acuerdo a los requerimientos y el enfoque que se quiera dar, el cual puede estar orientado desde el marketing hasta procesos de fidelización."
+        },
+        "concept_art": {
+          "title": "ARTE CONCEPTUAL",
+          "desc": "Hacemos maravillosos concept art enfocados a escenarios o interacciones de los diferentes componentes dentro de un juego."
+        },
+        "2Danimation": {
+          "title": "ANIMACIÓN 2D",
+          "desc": "Nuestro equipo de animación maneja herramientas especializadas para la animación 2D que permite lograr la mayor calidad, desde animación frame to frame hasta deformaciones para alcanzar gran realismo."
+        },
+        "uiux_design": {
+          "title": "DISEÑO UI/UX",
+          "desc": "Diseñamos la mejor experiencia de usuario acompañada de una estética fundamental para generar re-jugabilidad y retención en cualquier tipo de videojuego."
+        },
+        "trainings": {
+          "title": "CAPACITACIONES",
+          "desc": "Capacitamos en todos los aspectos de desarrollo en videojuegos."
+        }
+      }
+    },
+    "iot": {
+      "call2action": "Conectamos tu mundo",
+      "description": "Unidad de Ashara Studios encargada de diseñar, desarrollar e implementar software y hardware para solucionar problemas empleando automatismos y dispositivos que se conectan a internet con el propósito de monitorear y controlar remotamente situaciones o bien realizar alguna acción remota en específico desde cualquier parte del mundo o dentro de una zona de cobertura.",
+      "technologies": {
+        "comunication": "Comunicación",
+        "design": "Diseño",
+        "platforms": "Plataformas",
+        "protocols": "Protocolos"
+      },
+      "events": {
+        "ane2018": {
+          "title": "VIII CONGRESO INTERNACIONAL DEL ESPECTRO",
+          "sub": "Asistentes y Revisores",
+          "desc": "Aportando continuamente al proyecto de simplificación normativa de la regulación del espectro en banda libre"
+        },
+        "angelhack": {
+          "title": "AngelHack Bogotá 2018",
+          "sub": "Premiados por Hurify e IBM",
+          "desc": "IoT para la interacción de personas"
+        },
+        "hackRRR": {
+          "title": "HACKATHON: Reinventa, Realiza y Respira",
+          "sub": "Primer Lugar",
+          "desc": "IoT para el monitoreo de calidad del aire"
+        },
+        "ibm": {
+          "title": "Selección de StartUps de IBM",
+          "sub": "Ganadores de servicios en la nube",
+          "desc": "Poder Computacional en la Nube para el IoT"
+        }
+      },
+      "portfolio": {
+        "nympha": "Tecnología agrícola de iluminación LED."
+      },
+      "service": {
+        "solsElectronicas": {
+          "title": "SOLUCIONES ELECTRÓNICAS",
+          "desc": "Asesoramiento, diseño e implementación de proyectos electrónicos, eficientes y robustos. Algunas de sus áreas: telemática, telecomunicaciones, telemetría, control, instrumentación industrial y electrónica de potencia, entre otras."
+        },
+        "solsIoT": {
+          "title": "SOLUCIONES IOT",
+          "desc": "Conectamos sus dispositivos a Internet, acercando el Internet de las Cosas (IoT, Internet of Things) a su solución. Tenemos experiencia en diversas tecnologías de comunicaciones. Le asesoramos en la tecnología adecuada a sus necesidades de IoT."
+        }
+      }
+    },
+    "media": {
+      "call2action": "Muestra tu mejor cara",
+      "description": "Unidad dedicada al diseño, e implementación de estrategias de comunicación, mass media y merchandising; desarrollamos proyectos que se ajustan a las necesidades de nuestros clientes.",
+      "events": {
+        "meetUp": {
+          "sub": "Primer Meet-up",
+          "desc": "Desarrollo de videojuegos: ¿por dónde comienzo?"
+        }
+      },
+      "portfolio": {
+        "zonavj": "Comunidad de desarrolladores de videojuegos"
+      },
+      "service": {
+        "campsMarketing": {
+          "title": "CAMPAÑAS DE MARKETING",
+          "desc": "Diseñamos campañas de marketing especializadas en la generación de gran impacto acorde a tu proyecto desde iniciativas sociales hasta entretenimiento en video juegos de principio a fin."
+        },
+        "edicionVideo": {
+          "title": "PRODUCCIÓN AUDIOVISUAL",
+          "desc": "Construimos desde el guion, pasando por las etapas de pre-producción y terminando en la post-producción de vídeos de alta calidad, fundamentales para mostrar tu idea con la mejor calidad."
+        },
+        "fotografia": {
+          "title": "FOTOGRAFÍA",
+          "desc": "Fotografía profesional que se ajusta a las necesidades de tus productos y servicios, de esta forma mostrar lo con la mejor calidad. "
+        }
+      }
+    },
+    "school": {
+      "call2action": "Alimenta tu mente",
+      "description": "Unidad dedicada a la enseñanza transdisciplinar por medio de educación efectiva a través de cursos y fortalecimiento de comunidades.",
+      "events": {
+        "gameAudioTalks": {
+          "title": "Hablemos de Game Audio",
+          "sub": "Streaming semanal",
+          "desc": "Espacio para hablar sobre el Game audio"
+        }
+      },
+      "portfolio": {
+        "cursoProdMus": {
+          "title": "Producción Musical",
+          "desc": "Curso de introducción a la producción musical orientado a videojuegos"
+        }
+      },
+      "service": {
+        "cursos": {
+          "title": "Cursos",
+          "desc": "Dictamos cursos en cualquiera de los ámbitos que manejamos de manera profesional; video juegos, desarrollo de software, ciencia, internet de las cosas, marketing y comunicaciones, entre otros."
+        }
+      }
+    },
+    "science": {
+      "call2action": "Descubre la complejidad del universo",
+      "description": "Unidad dedicada a la investigación, simulación y prototipado de entornos complejos, utilizando herramientas de análisis y obtención de información como minería de datos, análisis de datos ráster, metaheurísticas; además de capacitación y divulgación científica. ",
+      "events": {
+        "meetup": {
+          "sub": "Primer Meetup",
+          "desc": "Fractales, Caos, Complejidad por todos lados"
+        },
+        "hackamericas": {
+          "sub": "TOP 5",
+          "desc": "Hackathon de Movilidad y Calidad del Aire"
+        }
+      },
+      "portfolio": {
+        "satyrium": "Proyecto para monitorizar, simular y mejorar la calidad de aire"
+      },
+      "service": {
+        "investigacion": {
+          "title": "INVESTIGACIÓN CIENTÍFICA",
+          "desc": "Nuestra unidad científica busca construir productos de base tecnológica y organizativa para solucionar problemas reales que son objeto de múltiples disciplinas basados en las herramientas de las ciencias de la complejidad."
+        },
+        "simulaciones": {
+          "title": "SIMULACIONES",
+          "desc": "Realizamos simulaciones de entornos complejos donde interactúan desde componentes biológicos, sociales, psicológicos y cualquiera que sea necesario, para ayudar a la toma de decisiones en tiempo real."
+        },
+        "datasets": {
+          "title": "DATA-SETS",
+          "desc": "Construimos y ofrecemos set de datos a medida, utilizando herramientas de data-science para obtener cualquier tipo de información solicitada."
+        },
+        "divulgacion": {
+          "title": "DIVULGACIÓN CIENTÍFICA",
+          "desc": "Como unidad dedicada y especializada en las ciencias de la complejidad, nos encanta compartir nuestro conocimiento a cualquier tipo de persona como un portal de entrada muy importante en la construcción de grandes ideas."
+        }
+      }
+    },
+    "soft": {
+      "call2action": "Construimos tus ideas",
+      "description": "Unidad dedicada al diseño, desarrollo, implementación y despliegue de plataformas tecnológicas como páginas web, plataformas web, aplicaciones de escritorio, aplicaciones móviles, aplicaciones en Unity para proyectos 3D y gamificación.",
+      "technologies": {
+        "frontend": "FrontEnd",
+        "backend": "BackEnd",
+        "db": "Base de Datos",
+        "dev-ops": "DevOps",
+        "ai": "Inteligencia Artificial",
+        "cms": "CMS"
+      },
+      "events": {
+        "i6k_bogota": {
+          "sub": "Circuito Bogotá",
+          "desc": "Mejores innovadores de Bogotá"
+        },
+        "i6k_colombia": {
+          "sub": "Circuito Colombia",
+          "desc": "Top 8 innovadores de Colombia."
+        },
+        "nequi": {
+          "sub": "Game+Code",
+          "desc": "Seleccionados para proponer gamificación dentro de la plataforma Nequi"
+        }
+      },
+      "portfolio": {
+        "completed": {
+          "arc": "Sitio Web y Plataforma Administrativa de ARC Abogados",
+          "ashara": "Sitio Web de Ashara Studios",
+          "complexud": "Sitio Web de ComplexUD",
+          "globalplate": "Sitio Web de Global Palate",
+          "hsabogal": "Sitio Web de Horti Sabogal"
+        },
+        "ongoing": {
+          "actis": "Suit de servicios de Software para entidades públicas y privadas",
+          "chainomy": "Red Social para soportar economías colaborativas"
+        }
+      },
+      "service": {
+        "pagWeb": {
+          "title": "PÁGINAS WEB",
+          "desc": "Desarrollo de páginas orientadas a procesos de mercadeo, construidas a medida de mano con nuestros clientes buscando la administración más amigable y sencilla para sus contenidos. Cada detalle tiene su justo cuidado, por ello nuestros productos tienen posicionamiento en buscadores online y cercano a los visitantes."
+        },
+        "platWeb": {
+          "title": "PLATAFORMAS WEB",
+          "desc": "Servicios especializados que buscan la accesibilidad, automatización, optimización, crecimiento y escalabilidad de su modelo de negocio, enfocado en aumentar su productividad y posicionamiento de su compañía en el ámbito global, apoyado de todas las bondades que ofrecen los últimos avances de la tecnología."
+        },
+        "platMoviles": {
+          "title": "PLATAFORMAS MÓVILES",
+          "desc": "Volvemos tu idea de negocio un producto real, con nuestro asesoramiento en ingeniería introducimos tu producto en las tiendas de aplicaciones móviles más importantes: Play Store y App Store. Utilizando los principios de diseño, pioneros en la estética y usabilidad de aplicaciones móviles recibirás un producto que se ajusta a tus necesidades."
+        },
+        "platMultimedia": {
+          "title": "PLATAFORMAS MULTIMEDIA",
+          "desc": "Creamos plataformas que interactúan de múltiples maneras con el entorno utilizando conexiones entre diferentes experiencias como ambientes 3D, 2D y hardware a través de internet de las cosas."
+        },
+        "gamificacion": {
+          "title": "GAMIFICACIÓN",
+          "desc": "Construimos plataformas enfocadas a las recompensas, generando procesos de fidelización y uso en cualquier dispositivo, a partir de la gamificación tu plataforma web o móvil puede escalar a un siguiente nivel en términos de diversión y usabilidad."
+        },
+        "ingRequerimientos": {
+          "title": "INGENIERÍA DE REQUERIMIENTOS",
+          "desc": "Utilizamos nuestros conocimientos para caracterizar y cuantificar lo que necesita su negocio acompañado de los modelos, las especificaciones funcionales y no funcionales. Además de los criterios de priorización que debe tener en cuenta para llevar su proyecto a cabo."
+        }
+      }
     }
+  }
 }
