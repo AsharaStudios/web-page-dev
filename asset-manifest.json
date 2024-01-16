@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6485c2f7.css",
+    "main.js": "/static/js/main.7993c90c.js",
+    "static/media/Raleway-SemiBold.ttf": "/static/media/Raleway-SemiBold.92cc605b66b78b8530f2.ttf",
+    "static/media/Raleway-Medium.ttf": "/static/media/Raleway-Medium.67dbd97b51333b7ddc93.ttf",
+    "static/media/Raleway-Bold.ttf": "/static/media/Raleway-Bold.cefd37fb7d1d62c51b20.ttf",
+    "static/media/Raleway-Regular.ttf": "/static/media/Raleway-Regular.c268e80ba67c4a294054.ttf",
+    "static/media/Raleway-Thin.ttf": "/static/media/Raleway-Thin.d1f120588966cbbaffd9.ttf",
+    "static/media/Raleway-LightItalic.ttf": "/static/media/Raleway-LightItalic.a9543c48e469789e54ee.ttf",
+    "static/media/Raleway-SemiBoldItalic.ttf": "/static/media/Raleway-SemiBoldItalic.140f53911fa22e2af8e7.ttf",
+    "static/media/Raleway-Italic.ttf": "/static/media/Raleway-Italic.44af61a0ca146385307f.ttf",
+    "static/media/BebasNeue.otf": "/static/media/BebasNeue.948f870ad6a90f6acf9c.otf",
+    "index.html": "/index.html",
+    "main.6485c2f7.css.map": "/static/css/main.6485c2f7.css.map",
+    "main.7993c90c.js.map": "/static/js/main.7993c90c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6485c2f7.css",
+    "static/js/main.7993c90c.js"
+  ]
+}
