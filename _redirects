@@ -1,0 +1,7 @@
+# This file is for GitLab Pages Redirects
+# https://docs.gitlab.com/ee/user/project/pages/redirects.html
+/AsharaSeason /index.html 200
+/Quests /index.html 200
+/Profile /index.html 200
+/SignIn /index.html 200
+/SignUp /index.html 200
